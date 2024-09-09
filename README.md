@@ -7,6 +7,7 @@ I'd like to use this theme for Penelope: https://jekyllthemes.io/theme/priam-por
 
 ## Website Structure
 
+```
 |-- home (one feature photo at top)
     |-- about (summary of Penelope's work)
     |-- updates (feature recent updates, link to updates page) / recent publications (feature recent publications, ~5, link to publications page)
@@ -29,6 +30,7 @@ I'd like to use this theme for Penelope: https://jekyllthemes.io/theme/priam-por
     (list of public events and media mentions, simple text page, possile images)
 |-- teaching 
     (courses and syllabus, possible images)
+```
 
 ## Domain
 
