@@ -3,7 +3,8 @@
 Website for Penelope Anthias.
 
 ## Theme
-See the visual mock-up in Github repo for homepage images. (Theme undecided.)
+
+Use Priam theme (see Slack for link to download). We should be able to plug and play with little modification.
 
 ## Website Structure
 
