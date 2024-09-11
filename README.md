@@ -3,7 +3,7 @@
 Website for Penelope Anthias.
 
 ## Theme
-I'd like to use this theme for Penelope: https://jekyllthemes.io/theme/priam-portfolio-jekyll-theme. See the visual mock-up in Github repo for homepage images.
+See the visual mock-up in Github repo for homepage images. (Theme undecided.)
 
 ## Website Structure
 
