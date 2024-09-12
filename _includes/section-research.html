@@ -1,0 +1,34 @@
+{% if site.data.settings.research.enable %}
+<!-- begin research -->
+<section class="section research">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="section__info">
+          <div class="section__head">
+            {% if site.data.settings.research.research_title %}
+              <h2 class="section__title">
+                <a href="{{ site.data.settings.research.research_page_url }}">{{ site.data.settings.research.research_title }}</a>
+              </h2>
+              <a class="section__link" href="{{ '/research' | relative_url }}">Read all <i class="fa-solid fa-arrow-right-long"></i></a>
+            {% else %}
+              <h2 class="section__title">Research</h2>
+            {% endif %}
+          </div>
+          <p class="section__description">{{ site.data.settings.research.research_description }}</p>
+          <div class="research-content">
+            <p>My research focuses on the intersection of indigeneity, territory, and resource extraction politics in Latin America, particularly in Bolivia’s Chaco region. Through over a decade of ethnographic research, I explore how colonial relations are both reproduced and challenged at resource frontiers. My work is interdisciplinary, drawing from anti-colonial, Marxist, and Foucaultian traditions, contributing to debates in political ecology, postcolonial geographies, legal geography, and critical agrarian studies. Central to my approach is amplifying Indigenous voices not just as sources of knowledge, but as contributors to geographical theory.</p>
+            <p>My first book, <b><i>Limits to Decolonization</i></b>, examines Bolivia’s Native Community Lands (TCOs) and the challenges of using maps and legal tools for decolonization in the face of extractivism. The book highlights Indigenous struggles for territory amidst the expansion of gas extraction and explores the notion of <b><i>hydrocarbon citizenship</i></b>. This work earned the 2019 APSA Award for Best Book in Race, Ethnicity, and Comparative Politics. Additionally, I have delved into how plurinationalism and extractivism shape contemporary state-formation through my institutional ethnography in Gran Chaco Province as part of the ERC-funded <b><i>Rule and Rupture</i></b> project.</p>                    
+            <p>In recent years, I have further explored the impacts of extractive industries through the <i>LEAKS</i> project, examining gas development conflicts in the Tariquia National Reserve. As part of this project, I directed a documentary film, <b><i>Don't Touch Tariquia</i></b>, which chronicles the resistance of rural women against extraction. My ongoing research continues to investigate how neoextractivism reshapes territorial practices and subjectivities in Bolivia. I welcome PhD students interested in colonial geographies and land/resource politics.</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end research -->
+{% else %}
+<!-- Debug Information: Research section is disabled -->
+<p>Research section is disabled in settings.</p>
+{% endif %}

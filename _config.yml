@@ -34,7 +34,10 @@ collections:
   gallery:
     output: true
     permalink: /gallery/:slug
-
+  research:   
+    output: true
+    permalink: /research/:slug 
+    
 # Pages Path
 defaults:
   - scope:
@@ -66,6 +69,11 @@ defaults:
       type: "gallery"
     values:
       layout: "gallery"
+  - scope:   
+      path: ""
+      type: "research"
+    values:
+      layout: "research"
 
 sass:
   sass_dir: _sass

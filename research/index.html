@@ -1,0 +1,36 @@
+---
+layout: default
+title: 
+description: 
+---
+
+<!-- begin page -->
+<div class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="page-section-description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+  <div class="page__research">
+    <div class="row">
+      {% for research in site.research reversed %}
+      <article class="research col col-12 animate">
+        <div class="research__content">
+          <h3 class="research__title">{{ research.title }}</h3>
+          {% if research.description %}
+          <p class="research__description">{{ research.description }}</p>
+          {% endif %}
+          <div class="research__body">
+            {{ research.content }}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+<!-- end page -->
