@@ -1,0 +1,36 @@
+---
+layout: default
+title: Publications
+description: A collection of academic articles, books, public articles, and other media by Penelope Anthias.
+---
+
+<!-- begin page -->
+<div class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="page-section-description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+  <div class="page__publications">
+    <div class="row">
+      {% for pub in site.publications reversed %}
+      <article class="publication col col-12 animate">
+        <div class="publication__content">
+          <!-- <h3 class="publication__title">{{ pub.title }}</h3> -->
+          {% if pub.description %}
+          <p class="publication__description">{{ pub.description }}</p>
+          {% endif %}
+          <div class="publication__body">
+            {{ pub.content }}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+<!-- end page -->

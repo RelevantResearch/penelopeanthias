@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Priam
-description: Priam is a minimal portfolio theme for Jekyll.
+title: Penelop Anthias
+description: Associate Professor
 color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
 
 
@@ -59,6 +59,9 @@ author:
   cta_button_link: '/contact/'
 
 
+buttton:
+  enable: true
+
 #-------------------------------
 # Settings
 updates:
@@ -79,6 +82,16 @@ research:
   enable: true
   research_title: "My Research"
   research_description: 
+
+
+publication:
+  enable: true
+  publication_title: "Books" # Change or leave it empty if you want the title to be set elsewhere
+  publication_description: # You can modify this description as needed
+  publication_page_url: "/publications" # The URL where all publications are listed
+  publication_image_url: "/images/book.png" # The image URL for the book or publication
+  publication_author: # The name of the author
+  publication_content: "This book explores how indigenous Guaraní communities in Bolivia have struggled to reclaim their territories despite two decades of mapping and land titling efforts. The book reveals the challenges they face, such as opposition from landowners and hydrocarbon development, and how these unresolved claims shape Bolivia’s political landscape. Anthias offers insights into how indigenous groups navigate these limits in their pursuit of territorial autonomy.  <a href='https://www.cornellpress.cornell.edu/book/9781501714368/limits-to-decolonization/#bookTabs=1'><b>Get it today</b></a>."
 
 #-------------------------------
 # Projects Settings
@@ -140,10 +153,14 @@ videos_settings:
 #-------------------------------
 # Gallery Section
 gallery_settings:
-  enable: true
+  enable: false
   gallery_title: Gallery
   gallery_description:
 
+articles:
+  enable: true
+  articles_title: "Latest Publication"
+  articles_description: "Explore my latest publications on a variety of topics."
 
 #-------------------------------
 # Newsletter Settings

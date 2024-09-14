@@ -40,6 +40,24 @@ body {
   }
 }
 
+.theme-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.sun-icon {
+  display: none;
+}
+
+.moon-icon {
+  display: block;
+}
+
 h1,
 h2,
 h3,
@@ -122,7 +140,7 @@ pre {
 
 img,
 .lightense-wrap {
-  max-width: 100%;
+  max-width: 155%;
   height: auto;
   vertical-align: middle;
 }
@@ -169,6 +187,10 @@ a {
 
 strong, b {
   color: var(--heading-font-color);
+}
+
+strong:hover, b:hover {
+  color: blue;
 }
 
 hr {

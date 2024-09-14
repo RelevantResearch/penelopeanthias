@@ -37,6 +37,12 @@ collections:
   research:   
     output: true
     permalink: /research/:slug 
+  publications:   
+    output: true
+    permalink: /publications/:slug 
+  updates:   
+    output: true
+    permalink: /updates/:slug 
     
 # Pages Path
 defaults:
@@ -74,6 +80,16 @@ defaults:
       type: "research"
     values:
       layout: "research"
+  - scope:   
+      path: ""
+      type: "publications"
+    values:
+      layout: "publications"
+  - scope:   
+      path: ""
+      type: "updates"
+    values:
+      layout: "updates"
 
 sass:
   sass_dir: _sass
