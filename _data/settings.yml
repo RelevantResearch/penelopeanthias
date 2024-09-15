@@ -59,8 +59,6 @@ author:
   cta_button_link: '/contact/'
 
 
-buttton:
-  enable: true
 
 #-------------------------------
 # Settings
@@ -195,7 +193,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: timsinabishal232@gmail.com # Add your form_id
+  email: mjkbdaor # Add your form_id
   description: Thank you for visiting my website. If you would like to discuss research collaborations, PhD supervision, or have inquiries about my work on Indigenous land rights, resource politics, or other related topics, please feel free to get in touch by filling out the form below. I look forward to connecting with you.
 
 # NOTE

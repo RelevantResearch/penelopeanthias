@@ -1,0 +1,92 @@
+---
+layout: default
+title: 📚 Book Gallery
+description: A collection of insightful books that I highly recommend. Each book offers a unique perspective and valuable knowledge.
+---
+
+<!-- begin page -->
+<div class="book-gallery container">
+  
+  <!-- Book 1: Image on Left, Description on Right -->
+  <div class="book-item">
+    <div class="book-image">
+      <img src="/images/book.png" alt="Book 1 Title" loading="lazy">
+    </div>
+    <div class="book-details">
+      <h2>Limits to Decolonization: Indigeneity, Territory and Hydrocarbon Politics in the Bolivian Chaco </h2>
+      <p>Winner of the 2019 Best Book in Race, Ethnicity and Comparative Politics, American Political Science Association Section on Race, Ethnicity and Politics. <a href="https://www.cornellpress.cornell.edu/book/9781501714368/limits-to-decolonization/#bookTabs=1"><b>Get it today</b></a></p>
+      <p>
+        Full Spanish translation available open access 
+        <a href="/images/spanish.pdf" download="spanish.pdf"><b>Get it Now</b></a>
+      </p>
+    </div>
+  </div>
+  
+  <!-- Book 2: Image on Right, Description on Left -->
+  <div class="book-item reverse">
+    <div class="book-details">
+        <h2>Neoextractivism and Territorial Disputes in Latin America: Social-ecological Conflict and Resistance on the Front Lines. Routledge.</h2>
+        <p>This book examines the expansion of extractive capitalism in Latin America which is relevant for students and researchers in international development, political ecology, geography, social anthropology, and for activists involved in socio-ecological movements. <a href="https://www.taylorfrancis.com/books/edit/10.4324/9781003267461/neoextractivism-territorial-disputes-latin-america-pabel-l%C3%B3pez-flores-penelope-anthias"><b>Get it today</b></a></p>
+      </div>
+    <div class="book-image">
+      <img src="/images/book3.png" alt="Book 2 Title" loading="lazy">
+    </div>
+  </div>
+
+      
+  
+</div>
+<!-- end page -->
+
+<style>
+  .book-gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    padding: 1px;
+  }
+
+  .book-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .book-item.reverse {
+    flex-direction: row-reverse;
+  }
+
+  .book-image img {
+    max-width: 200px; /* Adjust width to make sure the images aren't too large */
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .book-details {
+    flex: 1;
+  }
+
+  .book-details h2 {
+    margin: 0 0 10px;
+    font-size: 1.5rem;
+  }
+
+  .book-details p {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  /* Mobile Responsive: Adjust alternating behavior on mobile */
+  @media (max-width: 768px) {
+    .book-item, .book-item.reverse {
+      flex-direction: column;
+      text-align: center;
+    }
+    .book-item.reverse {
+      flex-direction: column-reverse; /* Ensures each item stacks properly */
+    }
+    .book-image img {
+      max-width: 100%; /* Ensures images take full width on mobile */
+    }
+  }
+</style>
