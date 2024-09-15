@@ -1,6 +1,7 @@
 # Penelope Anthias
 
 Website for Penelope Anthias.
+To update any section of the page, simply navigate to the "Posts" section and select the specific area you'd like to modify.
 
 ## Theme
 
@@ -10,27 +11,27 @@ Use Priam theme (see Slack for link to download). We should be able to plug and 
 
 ```
 |-- home (one feature photo at top)
-    |-- about (summary of Penelope's work)
-    |-- updates (feature recent updates, link to updates page) / recent publications (feature recent publications, ~5, link to publications page)
-    |-- films (feature one film, link to film page)
-    |-- book (feature one book, link to publications page)
-|-- my work    
-    (description of Penelope's research and bio, simple text page, maybe 2-3 photos)
-    |-- contact information
-|-- publications (simple text page)
+    |-- Latest updates (This section we will update monthly with upcoming events and recent announcements using bullet points)
+    |-- My research (This section is just text, maybe ~400 words and 3 short paragraphs)
+    |-- Book (feature one book, link to books page)
+    |-- Films (Two films)
+    |-- Publications (This section is a simple text block with the 4-5 most recent publications listed there, and users can click through to see all publications.)
+|-- Research  
+    |-- Reproduce the same text, links, and paragraphs on her faculty page here.
+|-- Publications (simple text page)
     |-- academic articles
     |-- books
     |-- public articles
-|-- films
+    |-- other media
+|-- Films
     |-- include two films both on youtube, add description
-|-- news 
+|-- Updates 
     (list of updates, announcements, and events by year and month)
 |-- teaching 
     (do be determined)
 |-- impact 
-    (list of public events and media mentions, simple text page, possile images)
-|-- teaching 
-    (courses and syllabus, possible images)
+    (do be determined)
+
 ```
 
 ## Domain

@@ -34,6 +34,19 @@ collections:
   gallery:
     output: true
     permalink: /gallery/:slug
+  research:   
+    output: true
+    permalink: /research/:slug 
+  publications:   
+    output: true
+    permalink: /publications/:slug 
+  updates:   
+    output: true
+    permalink: /updates/:slug 
+  books:   
+    output: true
+    permalink: /books/:slug
+
 
 # Pages Path
 defaults:
@@ -66,7 +79,26 @@ defaults:
       type: "gallery"
     values:
       layout: "gallery"
-
+  - scope:   
+      path: ""
+      type: "research"
+    values:
+      layout: "research"
+  - scope:   
+      path: ""
+      type: "publications"
+    values:
+      layout: "publications"
+  - scope:   
+      path: ""
+      type: "updates"
+    values:
+      layout: "updates"
+  - scope:   
+      path: ""
+      type: "books"
+    values:
+      layout: "books"
 sass:
   sass_dir: _sass
   style: compressed
