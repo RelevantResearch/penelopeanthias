@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  📈 Impact
+title: Impact
 permalink: /impact/
 image:
 page_cover:
