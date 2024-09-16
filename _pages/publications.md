@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  📄 Publications
+title: Publications
 permalink: /publications/
 image:
 page_cover:
