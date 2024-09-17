@@ -72,12 +72,11 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
 .col-8 {
   width: 66.6666666667%;
-  padding-left: 150px;
+  padding-left: 0px;
   box-sizing: border-box;
   display: flex;
   align-items: flex-start;
-  text-align: justify;
-  align-content: center;
+  text-align: left;
   justify-content: center;
   flex-wrap: nowrap;
   flex-direction: column;
@@ -149,6 +148,28 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
         margin-right: calc(#{$i} / #{$columns} * 100%);
       }
     }
+    .col-8 {
+      width: 100%; // Take full width on mobile
+      padding-left: 20px; // Reduce padding for mobile
+      padding-right: 20px; // Add right padding on mobile
+      justify-content: flex-start; // Adjust flexbox behavior
+    }
+    .row {
+      display: content;
+      width: 100%
+    }
+    .publication__image img {
+      width: 100%;        /* Force the image to cover the entire width of its container */
+      height: auto;       /* Maintain aspect ratio */
+      object-fit: cover;  /* Ensures the image fills the container, cropping if necessary */
+      margin: 0;          /* Remove any margin that could prevent full-width */
+    }
+  
+    // Adjust the container itself to take full width
+    .publication__image {
+      width: 100%;       /* Make sure the image container takes the full width */
+      padding: 0;        /* Remove any padding */
+      margin: 0;         /* Remove any margin */
+    }
   }
-
 }

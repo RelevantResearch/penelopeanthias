@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 📚 Book Gallery
+layout: page
+title: Book Gallery
 description: A collection of insightful books that I highly recommend. Each book offers a unique perspective and valuable knowledge.
 ---
 
@@ -38,55 +38,3 @@ description: A collection of insightful books that I highly recommend. Each book
 </div>
 <!-- end page -->
 
-<style>
-  .book-gallery {
-    display: flex;
-    flex-direction: column;
-    gap: 29px;
-    padding: 1px;
-  }
-
-  .book-item {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-  }
-
-  .book-item.reverse {
-    flex-direction: row-reverse;
-  }
-
-  .book-image img {
-    max-width: 200px; /* Adjust width to make sure the images aren't too large */
-    height: auto;
-    border-radius: 8px;
-  }
-
-  .book-details {
-    flex: 1;
-  }
-
-  .book-details h2 {
-    margin: 0 0 10px;
-    font-size: 1.5rem;
-  }
-
-  .book-details p {
-    margin: 0;
-    font-size: 1rem;
-  }
-
-  /* Mobile Responsive: Adjust alternating behavior on mobile */
-  @media (max-width: 768px) {
-    .book-item, .book-item.reverse {
-      flex-direction: column;
-      text-align: center;
-    }
-    .book-item.reverse {
-      flex-direction: column-reverse; /* Ensures each item stacks properly */
-    }
-    .book-image img {
-      max-width: 100%; /* Ensures images take full width on mobile */
-    }
-  }
-</style>
