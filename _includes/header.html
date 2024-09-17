@@ -4,6 +4,12 @@
     <div class="row">
       <div class="col col-12">
         <nav class="main-nav">
+          <button class="hamburger" aria-label="Toggle navigation">
+            <span class="hamburger__line"></span>
+            <span class="hamburger__line"></span>
+            <span class="hamburger__line"></span>
+          </button>
+          <span class="menu-text">Menu</span>
           <ul class="nav__list list-reset dragscroll">
             {% for item in site.data.settings.menu_settings.menu_items %}
             <li class="nav__item">
@@ -17,3 +23,4 @@
   </div>
 </header>
 <!-- end header -->
+
