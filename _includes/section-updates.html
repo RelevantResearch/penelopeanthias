@@ -28,7 +28,7 @@
             {% for update_item in site.data.settings.update_items %}
             <li>
               {% if update_item.date %}
-                <span class="update-date">{{ update_item.date }}</span>
+                <span class="update-date"><b>{{ update_item.date }}</b></span>
               {% else %}
                 <span class="update-date">Date not available</span>
               {% endif %}

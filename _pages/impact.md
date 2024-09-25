@@ -6,10 +6,21 @@ image:
 page_cover:
 ---
 
-## Impact
 
-My research and publications significantly contribute to debates in political ecology, postcolonial geographies, and critical agrarian studies. my work has:
+### Media Interviews
 
-- **Advanced Understanding**: Provided insights into how colonial relations and resource extraction dynamics are contested and reconfigured at the frontier of capitalism.
-- **Influenced Policy and Activism**: My analysis of hydrocarbon citizenship and indigenous autonomy has impacted policy discussions and informed activism related to resource extraction and environmental justice.
-- **Promoted Methodological Innovation**: Through my ethnographic research and documentary film-making, Dr. Anthias has introduced innovative approaches to capturing and representing socio-environmental conflicts.
+- **BBC Radio 4 Thinking Allowed: Land Struggles: From Bolivia to Britain**  
+    *Laurie Taylor discusses with Brett Christophers about the UK’s “new enclosure,” where the private sector has appropriated two million hectares of public land worth £400 billion. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.*
+
+  <audio controls>
+      <source src="/images/audioo.mp4" type="audio/mpeg">
+      Your browser does not support the audio element.
+  </audio>
+
+  [***Listen to the full interview here***](https://www.bbc.co.uk/sounds/play/m0008wpf)
+
+---
+
+## Other Impact Sections
+
+[Continue with the rest of your impact content...]

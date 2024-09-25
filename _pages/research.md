@@ -18,7 +18,7 @@ My commitment to highlighting Indigenous voices has led to methodological experi
 
 ## Major Publications and Projects
 
-### [**Book: Limits to Decolonization**](https://www.cornellpress.cornell.edu/book/9781501714368/limits-to-decolonization/#bookTabs=1)
+#### [**Book: Limits to Decolonization**](https://www.cornellpress.cornell.edu/book/9781501714368/limits-to-decolonization/#bookTabs=1)
 
 My first book, *Limits to Decolonization*, examines the dynamics and legacies of Bolivia’s Native Community Lands (TCOs) in the gas-rich Chaco region. This critical ethnography explores the possibilities and limitations of using maps and law as instruments of decolonization. 
 
@@ -27,11 +27,15 @@ My first book, *Limits to Decolonization*, examines the dynamics and legacies of
 - **Translations:** [***Spanish***](https://penelopeanthias.relevant-research.com/images/spanish.pdf) version through Plural Editores (2022).
 
 
-### [**Research on Hydrocarbon Citizenship and State Formation**](https://doi.org/10.1177/0094582x16678804)
+#### Untapped Reserves: Mapping extraction and resistance in Bolivia’s protected areas
+
+In 2024, I was awarded a British Academy Mid-Career Fellowship to complete further research, a book manuscript and second documentary film on the political and territorial dynamics of gas extraction in Bolivia’s Tariquía Reserve of Flora and Fauna.
+
+#### [**Research on Hydrocarbon Citizenship and State Formation**](https://doi.org/10.1177/0094582x16678804)
 
 I developed the concept of "hydrocarbon citizenship" through an institutional ethnography of the new Autonomous Regional Government in Gran Chaco Province. This work explores how plurinationalism and extractivism interact in Bolivia's state-formation processes. It was part of the ERC-funded project *Rule and Rupture* (2016–2019) at the University of Copenhagen.
 
-### **Project: LEAKS – Extractive Enclaves and Unintended Flows**
+#### LEAKS – Extractive Enclaves and Unintended Flows
 
 As a co-investigator on the *LEAKS* project (2019–2023), funded by the Independent Research Fund of Denmark, my research focused on conflicts over new natural gas development in the Tariquia National Reserve of Flora and Fauna. I examined how neoextractivism and conservation governance shape political spaces and subjectivities.
 
@@ -41,10 +45,10 @@ As a co-investigator on the *LEAKS* project (2019–2023), funded by the Indepen
 
 As part of the *LEAKS* project, I directed and produced *Don’t Touch Tariquia*, a 29-minute open-access documentary that captures rural women's resistance to extraction in one part of the national park. In 2023, I expanded my skills in documentary filmmaking by earning a Diploma in Creative Documentary Filmmaking from the Escuela Internacional de Cine y Television in Cuba, where I created a film on housing struggles in a textile village.
 
-## Academic Background and Fellowships
+### Academic Background and Fellowships
 
 Before joining Durham University in 2018, I held research fellowships at the University of Copenhagen and the University of California, Berkeley. I completed my PhD in Geography at the University of Cambridge in 2014.
 
-## PhD Supervision
+### PhD Supervision
 
 I welcome inquiries from prospective PhD students, particularly those interested in (post)colonial geographies and land/resource politics.
