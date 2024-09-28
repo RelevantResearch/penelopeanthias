@@ -11,6 +11,8 @@
 }
 .book-item.reverse {
   flex-direction: row-reverse;
+  display: flex;
+  flex-direction: row;
 }
 .book-image img {
   max-width: 200px; 

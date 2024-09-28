@@ -44,10 +44,11 @@ menu_settings:
     #   url: '/blog/'
     # - title: '📔 Elements'
     #   url: '/elements/'
+    - title: 'Public Engagement'
+      url: '/impact/'
     - title: 'Teaching'
       url: '/teaching/'
-    - title: 'Impact'
-      url: '/impact/'
+    
     
 
 
@@ -67,28 +68,28 @@ author:
 # Settings
 updates:
   enable: true
-  updates_title: "Latest Updates"
+  updates_title: "Updates & Announcements"
   updates_page_url: "/updates"
-  updates_description: "Stay informed with the latest events and announcements. Check back monthly for updates."
+  updates_description: "Stay up-to-date with the latest announcements, milestones, and events from my professional journey."
 
 update_items:
-  - date: "2024-09-20"
+  - date: "1 September 2024"
     content: |
-      This week I completed an intensive course on non-extractive filmmaking with the African film collective <strong><i>AFRISOS</i></strong>. The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors <i>Jigar Ganatra and Thige Njuguna</i>.<a href="https://www.afrisos.ngo/" target="_blank"><b> Learn more.</b></a>
+      Started my one-year British Academy Mid-Career Fellowship. My project, <b><i>"Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas,"</b></i> will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in <i>Bolivia’s Tariquía Reserve.</i>
   
-  - date: "2024-09-01"
+  - date: "20 August 2024"
     content: |
-      Beginning my one-year British Academy Mid-Career Fellowship. My project, <b><em>Untapped Reserves: Mapping extraction and resistance in Bolivia’s protected areas</em></b>, will involve additional research and the completion of a book manuscript and documentary film based on my research on <b><em>gas extraction</b></em> in Bolivia’s Tariquía Reserve.
-  
-  - date: "2024-08-16"
-    content: |
-      Article accepted by Journal of Latin American Geography. My article, <em><b>Cuts, flows and leaks: enclave imaginaries, neoextractivist territorialisation, and countertopographies of resistance at Bolivia’s extraction-conservation frontier</b></em>, will be part of the Leaks project Special Issue on <b><em>The politics of awkward circulations in Latin America’s new and old geographies of energy production</em></b>.
+      This week, I completed an intensive course on non-extractive filmmaking with the African film collective <a href="https://www.afrisos.ngo" target="_blank"><b><i>AFRISOS</b></i></a> The training, offered by <i>Durham University,</i> involved working in a group to create a short film under the guidance of mentors <i>Jigar Ganatra and Thige Njuguna.</i>
 
-  - date: "2024-07-15"
+  - date: "16 August 2024"
     content: |
-      New paper published in Antipode: <b><em>Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation</em></b>. Co-authored with <i>Prof. Kiran Asher,</i> it is available open access: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/anti.13078" target="_blank"><b>Here</b></a>.
+      Article accepted by <i>Journal of Latin American Geography.</i> My article, <b><i>"Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier,"</b></i> will be part of the Leaks Project Special Issue titled <b><i>"The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production."</b></i>
 
-  - date: "2024-07-03"
+  - date: "15 July 2024"
+    content: |
+      New paper published in <i>Antipode</i> titled <b><i>"Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation,"</b></i> co-authored with Prof. Kiran Asher.<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/anti.13078" target="_blank"><b><i>Click here for open access copy.</b></i></a>
+
+  - date: "3 July 2024"
     content: |
       Attended the Society for <b><i>Latin American Studies Annual Conference in Amsterdam</i></b>. I participated in a panel on Indigenous Citizenship and shared reflections from my work with <i>Guaraní people of Bolivia.</i>
 

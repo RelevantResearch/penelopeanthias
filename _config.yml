@@ -46,6 +46,9 @@ collections:
   books:   
     output: true
     permalink: /books/:slug
+  book:   
+    output: true
+    permalink: /book/:slug
 
 
 # Pages Path
@@ -99,6 +102,11 @@ defaults:
       type: "books"
     values:
       layout: "books"
+  - scope:   
+      path: ""
+      type: "book"
+    values:
+      layout: "book"
 sass:
   sass_dir: _sass
   style: compressed
