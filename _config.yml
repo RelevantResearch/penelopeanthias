@@ -49,6 +49,9 @@ collections:
   book:   
     output: true
     permalink: /book/:slug
+  limitesaladescolonizacion:   
+    output: true
+    permalink: /limitesaladescolonizacion/:slug
 
 
 # Pages Path
@@ -107,6 +110,12 @@ defaults:
       type: "book"
     values:
       layout: "book"
+  - scope:   
+      path: ""
+      type: "limitesaladescolonizacion"
+    values:
+      layout: "limitesaladescolonizacion"
+
 sass:
   sass_dir: _sass
   style: compressed
