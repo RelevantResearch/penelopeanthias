@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Límites a la descolonización"
+permalink: /limitesaladescolonizacion/
 description: This page features a collection of video recordings and images from the book's presentations held in various locations, including Tarija, La Paz, and Santa Cruz. These events brought together scholars, community leaders, and the public to explore crucial themes related to decolonization, cultural identity, and the enduring legacies of colonialism. Through insightful discussions and reflections shared during these gatherings, attendees engaged with the book's central arguments and contributed to the ongoing discourse on indigenous rights and territorial politics in Bolivia.
 ---
 
