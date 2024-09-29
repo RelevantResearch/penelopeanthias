@@ -19,6 +19,18 @@ page_cover:
 
   [***Listen to the full interview here***](https://www.bbc.co.uk/sounds/play/m0008wpf)
 
+<details>
+  <summary><strong>BBC Radio 4 Thinking Allowed: Land Struggles: From Bolivia to Britain</strong></summary>
+  <p><i>Laurie Taylor discusses with Brett Christophers about the UK’s “new enclosure,” where the private sector has appropriated two million hectares of public land worth £400 billion. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.</i></p>
+
+  <audio controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/images/audio.mp4" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+  <p><a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><strong>Listen to the full interview here</strong></a></p>
+</details>
+
 ---
 
 # Public Articles
