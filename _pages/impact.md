@@ -17,7 +17,7 @@ page_cover:
       Your browser does not support the audio element.
   </audio>
 
-  [***Listen to the full interview here***](https://www.bbc.co.uk/sounds/play/m0008wpf)
+  <a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><strong><span>Listen to the full interview here</span></strong></a>
 
 <details>
   <summary><strong>BBC Radio 4 Thinking Allowed: Land Struggles: From Bolivia to Britain</strong></summary>
@@ -28,7 +28,7 @@ page_cover:
     Your browser does not support the audio element.
   </audio>
 
-  <p><a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><strong>Listen to the full interview here</strong></a></p>
+  <p><a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><strong><span>Listen to the full interview here</span></strong></a></p>
 </details>
 
 ---

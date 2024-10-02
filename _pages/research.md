@@ -24,7 +24,7 @@ My first book, *Limits to Decolonization*, examines the dynamics and legacies of
 
 - **Awards:** 2019 APSA Award for Best Book in Race, Ethnicity, and Comparative Politics
 - **Featured:** 2019 Human Geography book review forum
-- **Translations:** [***Spanish***](https://penelopeanthias.relevant-research.com/images/spanish.pdf) version through Plural Editores (2022).
+- **Translations:**  <a href="https://penelopeanthias.relevant-research.com/images/spanish.pdf"><strong><span>Spanish</span></strong></a> version through Plural Editores (2022).
 
 
 #### Untapped Reserves: Mapping extraction and resistance in Bolivia’s protected areas
