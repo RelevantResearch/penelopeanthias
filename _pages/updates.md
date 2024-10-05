@@ -6,9 +6,7 @@ image:
 page_cover:
 ---
 
-Welcome to the Updates section! Here, you'll find the latest news, events, and announcements related to Dr. Penelope Anthias' work, including new publications, upcoming conferences, and other important updates. Be sure to check back regularly for the most recent information.
-
----
+Welcome to the home for the latest news, events, and announcements about Dr. Penelope Anthias' work, including new publications, upcoming conferences, and other important updates.
 
 ## Upcoming
 
@@ -31,18 +29,6 @@ Welcome to the Updates section! Here, you'll find the latest news, events, and a
 - **2024-07-15**: New paper published in Antipode: <b><em>Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation</em></b>. Co-authored with <i>Prof. Kiran Asher</i>, it is available open access: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/anti.13078" target="_blank"><b><span>Here</span></b></a>.
 
 - **2024-07-03**: Attended the Society for Latin American Studies Annual Conference in Amsterdam. I participated in a panel on Indigenous Citizenship and shared reflections from my work with <i>Guaraní people of Bolivia</i>.
-
----
-
-## 2023
-
-[your 2023 events/updates will be here]
-
----
-
-## 2022
-
-[your 2022 events/updates will be here]
 
 ---
 
