@@ -10,9 +10,7 @@ Welcome to the home for the latest news, events, and announcements about Dr. Pen
 
 ## Upcoming
 
-[Update your upcoming announcements or events]
-
----
+Check back for news about upcoming events.
 
 ## 2024
 
