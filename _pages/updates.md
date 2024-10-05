@@ -19,9 +19,7 @@ Welcome to the Updates section! Here, you'll find the latest news, events, and a
 ## 2024
 
 ### September
-
 - **2024-09-20**: This week I completed an intensive course on non-extractive filmmaking with the African film collective <strong><i>AFRISOS</i></strong>. The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors <i>Jigar Ganatra and Thige Njuguna</i>. <a href="https://www.afrisos.ngo/" target="_blank"><b><span>Learn more.</span></b></a>
-
 - **2024-09-01**: Beginning my one-year British Academy Mid-Career Fellowship. My project, <b><em>Untapped Reserves: Mapping extraction and resistance in Bolivia’s protected areas</em></b>, will involve additional research and the completion of a book manuscript and documentary film based on my research on <b><em>gas extraction</em></b> in Bolivia’s Tariquía Reserve.
 
 ### August
