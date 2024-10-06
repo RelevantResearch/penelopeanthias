@@ -1,4 +1,32 @@
 a span {
     color: blue !important;
+    border-bottom: 1px solid var(--border-color) !important;
+
+    &:hover {
+        border-bottom-color: var(--link-color-hover) !important;
+           
+    }
+}
+
+.update-content b {
+    color: blue !important;
+    font-weight: normal;
+}
+
+.update-content a i {
+    color: blue !important;
+    font-weight: normal;
+    border-bottom: 1px solid var(--border-color) !important;
+
+    &:hover {
+        border-bottom-color: var(--link-color-hover) !important; 
+    }
+}
+
+
+.blue {
+    color: blue !important;
+    font-weight: normal !important;
+    
 }
 
