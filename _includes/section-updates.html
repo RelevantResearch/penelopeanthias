@@ -28,14 +28,9 @@
             {% for update_item in site.data.settings.update_items %}
             <li>
               {% if update_item.date %}
-                <span class="update-date"><b>{{ update_item.date }}</b></span>
+                <p class="update-content"><span class="update-date">{{ update_item.date }}:</span> {{ update_item.content | strip_html }}</p>
               {% else %}
-                <span class="update-date">Date not available</span>
-              {% endif %}
-              {% if update_item.content %}
-                <p class="update-content">{{ update_item.content }}</p>
-              {% else %}
-                <p class="update-content">Content not available</p>
+                <p class="update-content"><b>Date not available:</b> {{ update_item.content | strip_html }}</p>
               {% endif %}
             </li>
             {% endfor %}
