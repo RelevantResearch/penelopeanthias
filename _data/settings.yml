@@ -75,7 +75,7 @@ updates:
 update_items:
   - date: "1 September 2024"
     content: |
-      Started my one-year British Academy Mid-Career Fellowship. My project, <b>"Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas,"</b> will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
+      Started my one-year British Academy Mid-Career Fellowship. My project, <span class="blue"><b>"Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas,"</b></span> will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
   
   - date: "20 August 2024"
     content: |
@@ -83,7 +83,7 @@ update_items:
 
   - date: "16 August 2024"
     content: |
-      Article accepted by <i>Journal of Latin American Geography.</i> My article, <b>"Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier,"</b> will be part of the Leaks Project Special Issue titled <b>"The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production."</b>
+      Article accepted by <i>Journal of Latin American Geography.</i> My article, <span class="blue"><b>"Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier,"</b></span> will be part of the Leaks Project Special Issue titled <span class="blue"><b>"The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production."</b></span>
 
   - date: "15 July 2024"
     content: |
@@ -91,7 +91,7 @@ update_items:
 
   - date: "3 July 2024"
     content: |
-      Attended the Society for <b>Latin American Studies Annual Conference in Amsterdam</b>. I participated in a panel on Indigenous Citizenship and shared reflections from my work with Guaraní people of Bolivia.
+      Attended the Society for <span class="blue"><b>Latin American Studies Annual Conference in Amsterdam</b></span>. I participated in a panel on Indigenous Citizenship and shared reflections from my work with Guaraní people of Bolivia.
 
 
 research:
