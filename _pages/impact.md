@@ -8,6 +8,11 @@ page_cover:
 
 On this page, you'll find examples of ways that I connect my work with the broader public, including media interviews, public events, and op-ed articles in major news outlets.
 
+## Op-Ed Articles
+
+- Rocha, N., & Anthias, P. (2023). [<span class="blue">Límites a la descolonización.</span>](https://www.la-razon.com/politico/2023/04/02/limites-a-la-descolonizacion/) *La Razón*.
+- Anthias, P. (2016). [<span class="blue">Indigenous autonomy in the age of extraction.</span>](https://nacla.org/news/2016/07/29/indigenous-autonomy-age-extraction) *NACLA Report on the Americas*.
+
 ## Media Interviews
 
 - Graham, T. (2024). [Power to the people? Bolivia’s hunt for gas targets national parks – and divides communities.](https://www.theguardian.com/global-development/2024/apr/10/bolivias-hunt-for-gas-targets-national-parks-and-divides-communities-tariquia) *The Guardian*.
@@ -33,8 +38,3 @@ On this page, you'll find examples of ways that I connect my work with the broad
   <p><a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><strong><span>Listen to the full interview here</span></strong></a></p>
 </details>
 -->
-
-## Op-Ed Articles
-
-- Rocha, N., & Anthias, P. (2023). [<span class="blue">Límites a la descolonización.</span>](https://www.la-razon.com/politico/2023/04/02/limites-a-la-descolonizacion/) *La Razón*.
-- Anthias, P. (2016). [<span class="blue">Indigenous autonomy in the age of extraction.</span>](https://nacla.org/news/2016/07/29/indigenous-autonomy-age-extraction) *NACLA Report on the Americas*.
