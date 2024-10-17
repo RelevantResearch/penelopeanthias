@@ -6,10 +6,11 @@ image:
 page_cover:
 ---
 
+On this page, you'll find examples of ways that I connect my work with the broader public, including media interviews, public events, and op-ed articles in major news outlets.
 
-### Media Interviews
+## Media Interviews
 
-- (2019, October 2). BBC Radio 4 "Land Struggles: From Bolivia to Britain." *Thinking Allowed* on BBC Radio 4.
+- **2019.** "Land Struggles: From Bolivia to Britain." *Thinking Allowed* on BBC Radio 4.
     Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.  <a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><span>Listen to the full interview here.</span></a>
 
 <!--
@@ -32,7 +33,7 @@ page_cover:
 </details>
 -->
 
-# Public Articles
+## Op-Ed Articles
 
 - Graham, T. (2024). [<span class="blue">Power to the people? Bolivia’s hunt for gas targets national parks – and divides communities.</span>](https://www.theguardian.com/global-development/2024/apr/10/bolivias-hunt-for-gas-targets-national-parks-and-divides-communities-tariquia) *The Guardian*.
 - Anthias, P. (2016). [<span class="blue">Indigenous autonomy in the age of extraction.</span>](https://nacla.org/news/2016/07/29/indigenous-autonomy-age-extraction) *NACLA Report on the Americas*.
