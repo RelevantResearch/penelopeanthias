@@ -11,9 +11,9 @@ On this page, you'll find examples of ways that I connect my work with the broad
 ## Media Interviews
 
 - Graham, T. (2024). [Power to the people? Bolivia’s hunt for gas targets national parks – and divides communities.](https://www.theguardian.com/global-development/2024/apr/10/bolivias-hunt-for-gas-targets-national-parks-and-divides-communities-tariquia) *The Guardian*.
+- Escobar, A. (2023). [La mirada oblicua de Penelope](https://elpais.bo/sociales/20230401_la-mirada-oblicua-de-penelope.html). *El País*.
 - Taylor, L. (2019). "Land Struggles: From Bolivia to Britain." *Thinking Allowed* on BBC Radio 4.
     Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.  <a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><span>Listen to the full interview here.</span></a>
-- Escobar, A. (2023). [La mirada oblicua de Penelope](https://elpais.bo/sociales/20230401_la-mirada-oblicua-de-penelope.html). *El País*.
 
 <!--
   <audio controls>
