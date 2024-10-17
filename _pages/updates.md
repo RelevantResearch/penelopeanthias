@@ -16,7 +16,7 @@ Check back for news about upcoming events.
 
 - **1 September 2024:** Started my one-year British Academy Mid-Career Fellowship. My project, <span class="blue">Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas</span>, will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
 
-- **20 August 2024:** This week I completed an intensive course on non-extractive filmmaking with the African film collective <a href="https://www.afrisos.ngo" target="_blank"><span>AFRISOS</span></a>. The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors Jigar Ganatra and Thige Njuguna.
+- **20 August 2024:** This week I completed an intensive course on non-extractive filmmaking with the African film collective [AFRISOS](https://www.afrisos.ngo). The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors Jigar Ganatra and Thige Njuguna.
 
 - **16 August 2024:** Article accepted by <i>Journal of Latin American Geography.</i> My article, <span class="blue">Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier</span> will be part of the Leaks Project Special Issue titled <span class="blue">The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production.</span>
 
