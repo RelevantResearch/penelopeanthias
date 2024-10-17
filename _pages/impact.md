@@ -37,5 +37,5 @@ On this page, you'll find examples of ways that I connect my work with the broad
 
 ## Op-Ed Articles
 
-- Anthias, P. (2016). [<span class="blue">Indigenous autonomy in the age of extraction.</span>](https://nacla.org/news/2016/07/29/indigenous-autonomy-age-extraction) *NACLA Report on the Americas*.
 - Rocha, N., & Anthias, P. (2023). [<span class="blue">Límites a la descolonización.</span>](https://www.la-razon.com/politico/2023/04/02/limites-a-la-descolonizacion/) *La Razón*.
+- Anthias, P. (2016). [<span class="blue">Indigenous autonomy in the age of extraction.</span>](https://nacla.org/news/2016/07/29/indigenous-autonomy-age-extraction) *NACLA Report on the Americas*.
