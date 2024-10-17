@@ -9,17 +9,16 @@ page_cover:
 
 ### Media Interviews
 
-- **BBC Radio 4 Thinking Allowed: Land Struggles: From Bolivia to Britain**  
-    Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.
+- (2019, October 2). BBC Radio 4 "Land Struggles: From Bolivia to Britain." *Thinking Allowed* on BBC Radio 4.
+    Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.  <a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><span>Listen to the full interview here.</span></a>
 
+<!--
   <audio controls>
       <source src="/images/audio.mp4" type="audio/mpeg">
       Your browser does not support the audio element.
   </audio>
+^ above doesn't work ^
 
-  <a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><strong><span>Listen to the full interview here</span></strong></a>
-
-<!--
 <details>
   <summary><strong>BBC Radio 4 Thinking Allowed: Land Struggles: From Bolivia to Britain</strong></summary>
   <p><i>Laurie Taylor discusses with Brett Christophers about the UK’s “new enclosure,” where the private sector has appropriated two million hectares of public land worth £400 billion. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.</i></p>
@@ -32,7 +31,6 @@ page_cover:
   <p><a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><strong><span>Listen to the full interview here</span></strong></a></p>
 </details>
 -->
----
 
 # Public Articles
 
@@ -40,6 +38,3 @@ page_cover:
 - Anthias, P. (2016). [<span class="blue">Indigenous autonomy in the age of extraction.</span>](https://nacla.org/news/2016/07/29/indigenous-autonomy-age-extraction) *NACLA Report on the Americas*.
 - Rocha, N., & Anthias, P. (2023). [<span class="blue">Límites a la descolonización.</span>](https://www.la-razon.com/politico/2023/04/02/limites-a-la-descolonizacion/) *La Razón*.
 - Escobar, A. (2023). [<span class="blue">La mirada oblicua de Penelope.</span>](https://elpais.bo/sociales/20230401_la-mirada-oblicua-de-penelope.html) *El País*.
-
-
-[Continue with the rest of your impact content...]
