@@ -23,7 +23,9 @@ Below is a select list of publications focusing on peer-reviewed articles, books
 
 # Books
 
-### Authored Book
+More information about *Limits to Decolonization* and *Neoextractivism and Territorial Disputes in Latin America* can be found on [my books page](https://penelopeanthias.com/books/).
+
+### Authored Books
 
 - Anthias, P. (2022). [<span class="blue">*Límites a la descolonización: Territorios indígenas y política de hidrocarburos en el Chaco boliviano*</span>](https://durham-repository.worktribe.com/output/1120148) (Translation by Hernando Calla Ortega). Plural Editores (La Paz).
 - Anthias, P. (2018). [<span class="blue">*Limits to Decolonization: Indigeneity, Territory, and Hydrocarbon Politics in the Bolivian Chaco.*</span>](https://durham-repository.worktribe.com/output/1121919) Cornell University Press.
@@ -32,7 +34,7 @@ Below is a select list of publications focusing on peer-reviewed articles, books
 
 - Anthias, P., & López Flores, P. C. (2023). [<span class="blue">Neoextractivism and Territorial Disputes in Latin America: Social-Ecological Conflict and Resistance on the Front Lines.</span>](https://doi.org/10.4324/9781003267461) Routledge.
 
-### Chapter in Book
+### Chapters in a Book
 
 - Anthias, P. (in press). [<span class="blue">Mapping the subaltern.</span>](https://doi.org/10.4324/9780367855765-11) In A. J. Kent, & D. Specht (Eds.), *The Routledge Handbook of Geospatial Technologies and Society.* Routledge.
 - Anthias, P. and López Flores, Pabel C. (2023). "Introduction" to *Neoextractivism and Territorial Disputes in Latin America*. London: Routledge.
