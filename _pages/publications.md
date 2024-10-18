@@ -6,6 +6,8 @@ image:
 page_cover:
 ---
 
+Below is a select list of publications focusing on peer-reviewed articles, books, and book chapters. My full CV ([available here, updated in fall 2024](put link to CV here)) includes a more thorough list of my published and presented work.
+
 # Academic Articles
 
 - Anthias, P., & Asher, K. (2024). [<span class="blue">Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation</span>](https://doi.org/10.1111/anti.13078). *Antipode*.
