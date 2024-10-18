@@ -52,6 +52,9 @@ collections:
   limitesaladescolonizacion:   
     output: true
     permalink: /limitesaladescolonizacion/:slug
+  films:
+    output: true
+    permalink: /films/:slug
 
 
 # Pages Path
@@ -115,6 +118,11 @@ defaults:
       type: "limitesaladescolonizacion"
     values:
       layout: "limitesaladescolonizacion"
+  - scope:   
+      path: ""
+      type: "films"
+    values:
+      layout: "films"
 
 sass:
   sass_dir: _sass
