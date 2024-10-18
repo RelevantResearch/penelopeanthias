@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Engagement
-permalink: /impact/
+permalink: /public-engagement/
 image:
 page_cover:
 ---

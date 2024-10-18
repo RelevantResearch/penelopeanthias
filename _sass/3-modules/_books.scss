@@ -1,13 +1,13 @@
 .book-gallery {
   display: flex;
   flex-direction: column;
-  gap: 29px;
+  gap: 0px;
   padding: 1px;
 }
 .book-item {
   display: flex;
-  align-items: left;
   gap: 20px;
+  align-items: center;
 }
 .book-item.reverse {
   flex-direction: row-reverse;
@@ -15,7 +15,7 @@
   flex-direction: row;
 }
 .book-image img {
-  max-width: 200px; 
+  max-width: 309px; 
   height: auto;
   border-radius: 8px;
 }
@@ -48,6 +48,6 @@
     max-width: 100%; 
   }
   .book-details {
-    max-width: 75%;
+    max-width: 100%;
   }
 }

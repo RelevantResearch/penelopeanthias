@@ -6,10 +6,12 @@ image:
 page_cover:
 ---
 
+Below is a select list of publications focusing on peer-reviewed articles, books, and book chapters. My full CV ([<span class="blue">available here, updated in fall 2024</span>](/images/anthiascv.pdf)) includes a more thorough list of my published and presented work.
+
 # Academic Articles
 
-- Anthias, P., & Asher, K. (online). [<span class="blue">Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation</span>](https://doi.org/10.1111/anti.13078)
-- Anthias, P. (2023). [<span class="blue"> Countertopographies and the futures of geographical thought. </span>](https://doi.org/10.1177/20438206231171202) *Dialogues in Human Geography*
+- Anthias, P., & Asher, K. (online). [<span class="blue">Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation.</span>](https://doi.org/10.1111/anti.13078)
+- Anthias, P. (2023). [<span class="blue"> Countertopographies and the futures of geographical thought. </span>](https://doi.org/10.1177/20438206231171202) *Dialogues in Human Geography.*
 - Anthias, P. (2022). [<span class="blue"> The Pluri-Extractivist State: Regional Autonomy and the Limits of Indigenous Participation in Gran Chaco Province. </span>](https://doi.org/10.1017/s0022216x21000997) *Journal of Latin American Studies*, 54(1), 125-154. 
 - Anthias, P., & Hoffmann, K. (2021). [<span class="blue"> The making of ethnic territories: Governmentality and counter-conducts. </span>](https://doi.org/10.1016/j.geoforum.2020.06.027) *Geoforum*, 119, 218-226.
 - Anthias, P. (2021). [<span class="blue"> Rethinking territory and property in indigenous land claims. </span>](https://doi.org/10.1016/j.geoforum.2019.09.008) *Geoforum*, 119, 268-278.

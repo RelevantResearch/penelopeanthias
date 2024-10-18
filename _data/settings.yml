@@ -26,16 +26,16 @@ menu_settings:
       url: '/'
     - title: 'Updates'
       url: '/updates/'
+    - title: 'Current Research'
+      url: '/research/'
     - title: 'Books'
       url: '/books/'
-    - title: 'Research'
-      url: '/research/'
     - title: 'Publications'
       url: '/publications/'
     # - title: '🚀 Projects'
     #   url: '/projects/'
     - title: 'Films'
-      url: '/videos/'
+      url: '/films/'
     # - title: '👨🏻‍💻 About'
     #   url: '/about/'
     # - title: '📷 Gallery'
@@ -45,9 +45,9 @@ menu_settings:
     # - title: '📔 Elements'
     #   url: '/elements/'
     - title: 'Public Engagement'
-      url: '/impact/'
-    - title: 'Teaching'
-      url: '/teaching/'
+      url: '/public-engagement/'
+    # - title: 'Teaching'
+    #   url: '/teaching/'
     
     
 
@@ -56,7 +56,7 @@ menu_settings:
 # Author Settings
 author:
   author_name: Dr. Penelope Anthias
-  author_role: Associate Professor, Durham University
+  author_role: Associate Professor of Geography, Durham University
   author_bio: My research examines struggles around indigeneity, territory and the politics of resource extraction in Latin America. This work is grounded in a decade and a half of engaged ethnographic research in Bolivia’s Chaco region.
   author_avatar: '/images/profile_picture.jpg'
   cta_button_text: Contact Me
@@ -75,23 +75,23 @@ updates:
 update_items:
   - date: "1 September 2024"
     content: |
-      Started my one-year British Academy Mid-Career Fellowship. My project, <span class="blue"><b>"Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas,"</b></span> will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
+      Started my one-year British Academy Mid-Career Fellowship. My project, "Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas, will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
   
   - date: "20 August 2024"
     content: |
-       This week I completed an intensive course on non-extractive filmmaking with the African film collective <a href="https://www.afrisos.ngo" target="_blank"><i>AFRISOS</i></a>. The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors Jigar Ganatra and Thige Njuguna.
+       This week I completed an intensive course on non-extractive filmmaking with the African film collective AFRISOS. The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors Jigar Ganatra and Thige Njuguna.
 
   - date: "16 August 2024"
     content: |
-      Article accepted by <i>Journal of Latin American Geography.</i> My article, <span class="blue"><b>"Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier,"</b></span> will be part of the Leaks Project Special Issue titled <span class="blue"><b>"The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production."</b></span>
+      Article accepted by Journal of Latin American Geography. My article, Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier will be part of the Leaks Project Special Issue titled The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production.
 
   - date: "15 July 2024"
     content: |
-      New paper published in Antipode: <span class="blue">Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation.</span> Co-authored with Prof. Kiran Asher, it is available open access: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/anti.13078" target="_blank"><span>Here</span></a>.
+       New paper published in Antipode: Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation. Co-authored with Prof. Kiran Asher.
 
   - date: "3 July 2024"
     content: |
-      Attended the Society for <span class="blue"><b>Latin American Studies Annual Conference in Amsterdam</b></span>. I participated in a panel on Indigenous Citizenship and shared reflections from my work with Guaraní people of Bolivia.
+      Attended the Society for Latin American Studies Annual Conference in Amsterdam. I participated in a panel on Indigenous Citizenship and shared reflections from my work with Guaraní people of Bolivia.
 
 
 research:
