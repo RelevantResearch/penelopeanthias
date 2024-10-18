@@ -107,7 +107,7 @@ publication:
   publication_page_url: "/publications" # The URL where all publications are listed
   publication_image_url: "/images/book.png" # The image URL for the book or publication
   publication_author: # The name of the author
-  publication_content: "Winner of the 2019 Best Book in Race, Ethnicity and Comparative Politics, American Political Science Association Section on Race, Ethnicity and Politics. Investigates the persistent struggles of Guaraní communities in Bolivia as they strive for land and autonomy. Based on ethnographic research, it reveals how their efforts to map and claim territory have been obstructed by governmental boundaries, resistance from landowners, and hydrocarbon projects.   <a href='https://www.cornellpress.cornell.edu/book/9781501714368/limits-to-decolonization/#bookTabs=1'><b><span>Get it today</span></b></a>."
+  publication_content: "Winner of the 2019 Best Book in Race, Ethnicity and Comparative Politics, American Political Science Association Section on Race, Ethnicity and Politics. Investigates the persistent struggles of Guaraní communities in Bolivia as they strive for land and autonomy. Based on ethnographic research, it reveals how their efforts to map and claim territory have been obstructed by governmental boundaries, resistance from landowners, and hydrocarbon projects.   <a href='https://www.cornellpress.cornell.edu/book/9781501714368/limits-to-decolonization/#bookTabs=1'><span>Get it today</span></a>."
 
 #-------------------------------
 # Projects Settings
