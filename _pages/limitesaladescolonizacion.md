@@ -6,10 +6,10 @@ description: This page features a collection of video recordings and images from
 ---
 
 <section class="content">
-  <h2>Watch the Videos Here</h2>
+  <h2>Outreach in Bolivia for *Límites a la descolonización*</h2>
 
   <h3>Presentation of the Book - Casa de la Cultura: Tarija</h3>
-  <p>Durham University and Plural Editores hosted the presentation of the book <strong>"Límites a la descolonización." The event took place at the Casa de la Cultura in Tarija, where attendees gathered to engage with the themes of decolonization and listen to insights from the author. The recording of the presentation features reflections and discussions that highlight the significance of the book in contemporary discourse on cultural identity and colonial legacies.</p>
+  <p>Durham University and Plural Editores hosted the presentation of the book *Límites a la descolonización*. The event took place at the Casa de la Cultura in Tarija, where attendees gathered to engage with the themes of decolonization and listen to insights from the author. The recording of the presentation features reflections and discussions that highlight the significance of the book in contemporary discourse on cultural identity and colonial legacies.</p>
 
   <div class="fb-video-wrapper">
     <iframe src="https://www.facebook.com/plugins/video.php?href=https://fb.watch/uTU1sG6Fdl/" 
@@ -22,7 +22,7 @@ description: This page features a collection of video recordings and images from
   <hr>
 
   <h3>Presentation of the Book - MUSEF Auditorium</h3>
-  <p>Durham University and Plural Editores hosted the presentation of the book "Límites a la descolonización." The event took place at the MUSEF Auditorium, located at Calle Ingavi N°916, corner of Genaro Sanjinés, in La Paz on Tuesday, March 28, 2023, at 7:00 PM.</p>
+  <p>Durham University and Plural Editores hosted the presentation of the book *Límites a la descolonización*. The event took place at the MUSEF Auditorium, located at Calle Ingavi N°916, corner of Genaro Sanjinés, in La Paz on Tuesday, March 28, 2023, at 7:00 PM.</p>
 
   <img src="/images/Límites/conference1.jpg" alt="Conference in MUSEF Auditorium">
   
