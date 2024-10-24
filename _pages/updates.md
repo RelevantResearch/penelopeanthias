@@ -16,7 +16,3 @@ description: Welcome to the home for the latest news, events, and announcements 
 - **15 July 2024:** New paper published in Antipode: Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation. Co-authored with Prof. Kiran Asher, it is available open access [Here.](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.13078)
 
 - **3 July 2024:** Attended the Society for Latin American Studies Annual Conference in Amsterdam. I participated in a panel on Indigenous Citizenship and shared reflections from my work with Guaraní people of Bolivia.
-
----
-
-***For inquiries, feel free to reach out via the contact page.***
