@@ -2,12 +2,12 @@
 layout: page
 title: "Límites a la descolonización"
 permalink: /books/limitesaladescolonizacion/
-description: This page features a collection of video recordings and images from the book's presentations held in various locations, including Tarija, La Paz, and Santa Cruz. These events brought together scholars, community leaders, and the public to explore crucial themes related to decolonization, cultural identity, and the enduring legacies of colonialism. Through insightful discussions and reflections shared during these gatherings, attendees engaged with the book's central arguments and contributed to the ongoing discourse on indigenous rights and territorial politics in Bolivia.
+description:
 ---
+This page features a collection of video recordings and images from the book's presentations held in various locations, including Tarija, La Paz, and Santa Cruz. These events brought together scholars, community leaders, and the public to explore crucial themes related to decolonization, cultural identity, and the enduring legacies of colonialism. Through insightful discussions and reflections shared during these gatherings, attendees engaged with the book's central arguments and contributed to the ongoing discourse on indigenous rights and territorial politics in Bolivia. You can also visit the [Facebook page for the book](https://www.facebook.com/profile.php?id=100090929704323).
 
 <section class="content">
-  <h2>Outreach in Bolivia for *Límites a la descolonización*</h2>
-
+  
   <h3>Presentation of the Book - Casa de la Cultura: Tarija</h3>
   <p>Durham University and Plural Editores hosted the presentation of the book *Límites a la descolonización*. The event took place at the Casa de la Cultura in Tarija, where attendees gathered to engage with the themes of decolonization and listen to insights from the author. The recording of the presentation features reflections and discussions that highlight the significance of the book in contemporary discourse on cultural identity and colonial legacies.</p>
 
