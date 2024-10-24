@@ -1,47 +1,69 @@
 {% if site.data.settings.videos_settings.enable == true %}
 <!-- begin videos -->
-<section class="section videos">
+<section class="section unique-videos">
   <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="container__inner">
+    <div class="section__head">
+      <h2 class="section__title">
+        <i class="fa-solid fa-film"></i> {{
+        site.data.settings.videos_settings.videos_title }}
+      </h2>
+      <a class="section__link" href="{{ '/films' | relative_url }}"
+        >View all films<i class="fa-solid fa-arrow-right-long"></i
+      ></a>
+    </div>
+    <div class="custom-video-row">
+      <!-- Video 1 -->
+      <div class="custom-video-card">
+        <div
+          class="custom-video-thumbnail-container"
+          data-video-id="R3SbF-nGZbI"
+        >
+          <img
+            src="https://img.youtube.com/vi/R3SbF-nGZbI/hqdefault.jpg"
+            alt="Video 1 Thumbnail"
+            class="custom-video-thumbnail"
+          />
+          <div class="custom-play-button">&#9658;</div>
+        </div>
+        <div class="custom-video-title">
+          DON'T TOUCH TARIQUÍA: The Resistance of Chiquiacá (ENG SUBS)
+        </div>
+      </div>
 
-          <div class="section__info">
-            <div class="section__head">
-              <h2 class="section__title"><i class="fa-solid fa-film"></i> {{ site.data.settings.videos_settings.videos_title }}</h2>
-              <a class="section__link" href="{{ '/films' | relative_url }}">View all films<i class="fa-solid fa-arrow-right-long"></i></a>
-            </div>
-            {% if site.data.settings.videos_settings.videos_description %}
-              <p class="section__description">{{ site.data.settings.videos_settings.videos_description }}</p>
-            {% endif %}
-          </div>
-
-          <div class="row">
-            {% assign sorted = site.videos | sort: 'date' | reverse %}
-            {% for video in sorted limit:2 %}
-            <article class="video col col-6 col-t-12 animate">
-              <div class="video__content">
-                {% if video.image %}
-                <a href="/films" class="video__image">
-                  <img class="lazy" data-src="{{ video.image | relative_url }}" alt="{{ video.title }}">
-                </a>
-                {% endif %}
-                <div class="video__info">
-                  <span class="video__icon">
-                    <i class="fa-brands fa-youtube"></i>
-                  </span>
-                  <h3 class="video__title"><a href="/films">{{ video.title }}</a></h3>
-                </div>
-              </div>
-            </article>
-            {% endfor %}
-          </div>
-
+      <!-- Video 2 -->
+      <div class="custom-video-card">
+        <div
+          class="custom-video-thumbnail-container"
+          data-video-id="rTmq6xQzOkY"
+        >
+          <img
+            src="https://img.youtube.com/vi/rTmq6xQzOkY/hqdefault.jpg"
+            alt="Video 2 Thumbnail"
+            class="custom-video-thumbnail"
+          />
+          <div class="custom-play-button">&#9658;</div>
+        </div>
+        <div class="custom-video-title">
+          La casa nueva (The New House) (ENG SUBS)
         </div>
       </div>
     </div>
   </div>
 
+  <!-- Video Modal -->
+  <div id="customVideoModal" class="custom-modal">
+    <div class="custom-modal-content">
+      <button class="custom-close-btn">&times;</button>
+      <iframe
+        id="customVideoPlayer"
+        width="100%"
+        height="450"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </div>
 </section>
 <!-- end videos -->
 {% endif %}
