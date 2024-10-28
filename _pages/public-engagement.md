@@ -21,7 +21,7 @@ On this page, you'll find examples of how I connect my work with the broader pub
 
 ## Book Outreach in Bolivia
 
-Alongside the publication of the Spanish language edition of my book *Limits to Decoloniazation* (as *Límites a la descolonización*), I held several jointly coordinated events in Bolivia to discuss the context and implications of this work. Learn more about this book and download Spanish language version for free [on my books page](https://penelopeanthias.com/books/). You can also see samples of images and videos from the [book tour in Bolivia here](https://penelopeanthias.com/books/limitesaladescolonizacion/).
+Alongside the publication of the Spanish language edition of my book *Limits to Decoloniazation* (as *Límites a la descolonización*), I held several jointly coordinated events in Bolivia to discuss the context and implications of this work. Learn more about this book and download Spanish language version for free [on my books page](https://penelopeanthias.com/books/). You can also see samples of images and videos from the [book tour in Bolivia here.]({{ site_url }}/books/limitesaladescolonizacion/)
 
 ![Book presentation in Bolivia](/images/Límites/conference1.jpg)
 

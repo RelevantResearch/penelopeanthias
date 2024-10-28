@@ -1,0 +1,70 @@
+
+{% if site.data.settings.videos_settings.enable == true %}
+<!-- begin videos -->
+<section class="section unique-videos">
+  <div class="container">
+    <div class="section__head">
+      <h2 class="section__title">
+        <i class="fa-solid fa-film"></i> {{
+        site.data.settings.videos_settings.videos_title }}
+      </h2>
+      <a class="section__link" href="{{ '/films' | relative_url }}"
+        >View all films<i class="fa-solid fa-arrow-right-long"></i
+      ></a>
+    </div>
+    <div class="custom-video-row">
+      <!-- Video 1 -->
+      <div class="custom-video-card">
+        <div
+          class="custom-video-thumbnail-container"
+          data-video-id="R3SbF-nGZbI"
+        >
+          <img
+            src="https://img.youtube.com/vi/R3SbF-nGZbI/hqdefault.jpg"
+            alt="Video 1 Thumbnail"
+            class="custom-video-thumbnail"
+          />
+          <div class="custom-play-button">&#9658;</div>
+        </div>
+        <div class="custom-video-title">
+          DON'T TOUCH TARIQUÍA: The Resistance of Chiquiacá (ENG SUBS)
+        </div>
+      </div>
+
+      <!-- Video 2 -->
+      <div class="custom-video-card">
+        <div
+          class="custom-video-thumbnail-container"
+          data-video-id="rTmq6xQzOkY"
+        >
+          <img
+            src="https://img.youtube.com/vi/rTmq6xQzOkY/hqdefault.jpg"
+            alt="Video 2 Thumbnail"
+            class="custom-video-thumbnail"
+          />
+          <div class="custom-play-button">&#9658;</div>
+        </div>
+        <div class="custom-video-title">
+          La casa nueva (The New House) (ENG SUBS)
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Video Modal -->
+  <div id="customVideoModal" class="custom-modal">
+    <div class="custom-modal-content">
+      <button class="custom-close-btn">&times;</button>
+      <iframe
+        id="customVideoPlayer"
+        width="100%"
+        height="450"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </div>
+</section>
+<!-- end videos -->
+{% endif %}
