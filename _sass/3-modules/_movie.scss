@@ -1,0 +1,135 @@
+
+
+/* Description Styles */
+.description {
+    flex: 1; /* Take up the left side */
+    margin-right: 20px;
+}
+
+.description-text {
+    display: none;
+}
+
+.description-text.active {
+    display: block;
+}
+
+/* Video Container Styles */
+.video-container {
+    flex: 1; /* Take up the right side */
+    position: relative;
+}
+
+.video-wrapper {
+    display: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, .3);
+    border-radius: 15px;
+    height: 223px;
+    width: 360px;
+    height: 221px;
+}
+
+.video-wrapper.active {
+    display: block;
+}
+
+/* Bullet Indicators */
+.bullet-indicators {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-right: 91px;
+}
+
+.bullet {
+    width: 15px;
+    height: 15px;
+    background-color: #ccc;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.bullet.selected {
+    background-color: #8bd55e;
+}
+
+/* added */
+
+@media (max-width: 1084px) {
+    iframe{
+        width: 630px;
+        height: 311px;
+    }
+    .video-wrapper{
+        width: 630px;
+        height: 311px;
+    }
+    .row-video {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .bullet-indicators {
+        margin-right: 0;
+    }
+}
+@media (max-width: 768px) {
+    .video-container{
+        margin-top: 10px;
+        margin-left: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    h3.h3-video, p.p-video {
+        margin-left: 16px;
+        width: 100%;
+    }
+    iframe{
+        width: 280px;
+        height: 180px;
+    }
+    .video-wrapper{
+        width: 280px;
+        height: 180px;
+    }
+    ul {
+        padding-left: 0 !important;
+    }
+}
+
+.video-modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  .modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 800px;
+  }
+  
+  .close-modal {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    color: #ffffff;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  .thumbnail-wrapper img {
+    width: 100%;
+    cursor: pointer;
+  }
+  

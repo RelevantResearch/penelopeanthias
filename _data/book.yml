@@ -1,0 +1,40 @@
+book1:
+  title: "Limits to Decolonization: Indigeneity, Territory and Hydrocarbon Politics in the Bolivian Chaco"
+  description: "My first solo-authored book is an ethnographic account of the Guaraní's two-decade-long struggle for land in the Bolivian Chaco. Despite aspirations to the contrary, years of indigenous territorial mapping have not resulted in autonomy and self-determination. My book raises questions about the radical potential of mapping as a political practice, examines the limits to state recognition, and highlights the ongoing modes of creative and persistent resistance among indigenous peoples."
+  image: "/images/book.png"
+  publisher:
+    name: "Cornell University Press"
+    url: "https://www.cornellpress.cornell.edu/book/9781501714368/limits-to-decolonization/#bookTabs=1"
+  amazon:
+    url: "https://www.amazon.com/Limits-Decolonization-Indigeneity-Hydrocarbon-Perspectives/dp/1501714368"
+  barnes_and_noble:
+    url: "https://www.barnesandnoble.com/w/limits-to-decolonization-penelope-anthias/1126834846?ean=9781501714368"
+  library:
+    url: "https://search.worldcat.org/title/1001968626"
+  download:
+    title: "Download the 5 MB file here."
+    url: "https://penelopeanthias.com/images/spanish.pdf"
+  translator:
+    name: "H. Calla Ortega"
+  publisher_spanish:
+    name: "Plural Editores"
+    url: "http://www.plural.bo/"
+  public_events:
+    facebook_page: "https://www.facebook.com/profile.php?id=100090929704323"
+    description: "Facebook page for Límites a la descolonización."
+
+  additional_info: "You can watch a lecture on the core themes of the book presented at the University of Florida on YouTube. The book was translated into Spanish in 2022, available as an open-access PDF."
+
+book2:
+  title: "Neoextractivism and Territorial Disputes in Latin America: Social-ecological Conflict and Resistance on the Front Lines"
+  description: "In this collected work, co-edited by <a href=\"http://calas.lat/en/content/pabel-camilo-lópez-flores\"><span>Pabel C. López Flores</span></a> and me, a variety of authors explore the expansion of extractive industries into new territories and the powerful resistance movements emerging in response. Each chapter dives into different contexts across the region, revealing how communities are standing up to protect their lands, reclaim their rights, and push back against ecological and social injustices. This book isn’t just about documenting struggles – it's about envisioning a different kind of future, one where sustainable alternatives and post-extractive possibilities are realized."
+  image: "/images/book3.png"
+  publisher:
+    name: "Routledge"
+    url: "https://www.routledge.com/Neoextractivism-and-Territorial-Disputes-in-Latin-America-Social-ecological-Conflict-and-Resistance-on-the-Front-Lines/Anthias-LopezFlores/p/book/9781032212388"
+  amazon:
+    url: "https://www.amazon.com/Neoextractivism-Territorial-Disputes-Routledge-Development/dp/1032212381"
+  barnes_and_noble:
+    url: "https://www.barnesandnoble.com/w/neoextractivism-and-territorial-disputes-in-latin-america-penelope-anthias/1143789707?ean=9781032212388"
+  library:
+    url: "https://search.worldcat.org/title/1392402494?oclcNum=1392402494"

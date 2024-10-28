@@ -1,89 +1,70 @@
----
-layout: default
----
 
-<!-- begin post -->
-<article class="post container">
-
-  <div class="post-head">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <div class="post-meta">
-      <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.date | date: date_format }}</time>
-      {% assign words = page.content | number_of_words %}
-      {% if words >= 1 %}
-      &nbsp;&bull;&nbsp;
-      <span class="post-minutes">
-      {% assign words = page.content | number_of_words %}
-      {% if words < 360 %}
-        1 min read
-      {% else %}
-        {{ words | divided_by:180 }} min read
-      {% endif %}
-      </span>
-      {% endif %}
+{% if site.data.settings.videos_settings.enable == true %}
+<!-- begin videos -->
+<section class="section unique-videos">
+  <div class="container">
+    <div class="section__head">
+      <h2 class="section__title">
+        <i class="fa-solid fa-film"></i> {{
+        site.data.settings.videos_settings.videos_title }}
+      </h2>
+      <a class="section__link" href="{{ '/films' | relative_url }}"
+        >View all films<i class="fa-solid fa-arrow-right-long"></i
+      ></a>
     </div>
-    {% if page.description %}
-    <p class="post-description">{{ page.description }}</p>
-    {% endif %}
-  </div>
+    <div class="custom-video-row">
+      <!-- Video 1 -->
+      <div class="custom-video-card">
+        <div
+          class="custom-video-thumbnail-container"
+          data-video-id="R3SbF-nGZbI"
+        >
+          <img
+            src="https://img.youtube.com/vi/R3SbF-nGZbI/hqdefault.jpg"
+            alt="Video 1 Thumbnail"
+            class="custom-video-thumbnail"
+          />
+          <div class="custom-play-button">&#9658;</div>
+        </div>
+        <div class="custom-video-title">
+          DON'T TOUCH TARIQUÍA: The Resistance of Chiquiacá (ENG SUBS)
+        </div>
+      </div>
 
-  {% if page.video_embed %}
-  <div class="post-video">
-    <div class="post-video__wrap">
-      <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    </div>
-  </div>
-
-  {% else %}
-
-  <!-- {% if page.image %}
-  <div class="post-image">
-    <img class="lazy" data-src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}">
-  </div>
-  {% endif %} -->
-
-  {% endif %}
-
-  <div class="post__content">
-    {{ content }}
-  </div>
-
-
-
-  <div class="section-related">
-    <h4 class="section-related__title">Next film...</h4>
-    <div class="row">
-      {% assign video-collection = site[page.collection] | sample:3 %}
-      {% assign relatedCount = 0 %}
-      {% for video in video-collection %}
-      {% if video.url != page.url %}
-        <article class="video col col-6 col-t-12 animate">
-          <div class="video__content">
-            {% if video.image %}
-            <a href="{{ video.url | relative_url }}" class="video__image">
-              <img class="lazy" data-src="{{ video.image | relative_url }}" alt="{{ video.title }}">
-            </a>
-            {% endif %}
-            <div class="video__info">
-              <span class="video__icon">
-                <i class="fa-brands fa-youtube"></i>
-              </span>
-              <h3 class="video__title"><a href="{{ video.url | relative_url }}">{{ video.title }}</a></h3>
-            </div>
-          </div>
-        </article>
-        {% assign relatedCount = relatedCount | plus: 1 %}
-        {% if relatedCount >= 2 %}
-          {% break %}
-        {% endif %}
-        {% endif %}
-      {% endfor %}
+      <!-- Video 2 -->
+      <div class="custom-video-card">
+        <div
+          class="custom-video-thumbnail-container"
+          data-video-id="rTmq6xQzOkY"
+        >
+          <img
+            src="https://img.youtube.com/vi/rTmq6xQzOkY/hqdefault.jpg"
+            alt="Video 2 Thumbnail"
+            class="custom-video-thumbnail"
+          />
+          <div class="custom-play-button">&#9658;</div>
+        </div>
+        <div class="custom-video-title">
+          La casa nueva (The New House) (ENG SUBS)
+        </div>
+      </div>
     </div>
   </div>
 
-</article>
-<!-- end post -->
-
-{% if site.data.settings.disqus-identifier %}
-
+  <!-- Video Modal -->
+  <div id="customVideoModal" class="custom-modal">
+    <div class="custom-modal-content">
+      <button class="custom-close-btn">&times;</button>
+      <iframe
+        id="customVideoPlayer"
+        width="100%"
+        height="450"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </div>
+</section>
+<!-- end videos -->
 {% endif %}
