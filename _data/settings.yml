@@ -162,13 +162,14 @@ blog_settings:
 videos:
   enable: true
   videos_title: Films
+  videos_description: 
   items:
-    - title: "DON'T TOUCH TARIQUÍA: The Resistance of Chiquiacá"
-      description: "We believe home automation should be simple and affordable. That's why we offer a complete smart home solution for lighting, heating, security, audio, blinds, PV & Solar and more."
+    - title: "Don't Touch Tariquia: The Resistance of Chiquiacá"
+      description: "This film explores a community's struggle to protect their land and livelihood from damaging oil exploration in the Tariquía Reserve, organizing protests and resistance to safeguard their environment and future."
       url: "https://www.youtube.com/embed/R3SbF-nGZbI?si=nhTfN9Yqr99Z3hoZ"
       thumbnail: "https://img.youtube.com/vi/R3SbF-nGZbI/hqdefault.jpg"
-    - title: "LA CASA NUEVA (The New House)"
-      description: "Learn how to take full control of your home's security and energy efficiency with our simple step-by-step tutorial on solar integration and advanced home automation."
+    - title: "La Casa Nueva(The New House)"
+      description: "This film tells Judith's story near the Ariguanabo textile factory, highlighting her struggles with inadequate housing and her commitment to improving her living conditions while caring for her family."
       url: "https://www.youtube.com/embed/rTmq6xQzOkY?si=rdd8gYU4_5OfT1Et"
       thumbnail: "https://img.youtube.com/vi/rTmq6xQzOkY/maxresdefault.jpg"
 
