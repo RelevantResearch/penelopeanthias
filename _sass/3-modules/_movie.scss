@@ -4,6 +4,7 @@
 .description {
     flex: 1; /* Take up the left side */
     margin-right: 20px;
+    display: flex;
 }
 
 .description-text {
@@ -100,6 +101,40 @@
     }
 }
 
+
+/* General styling for row-video */
+.arrows-left {
+    display: flex;
+    width: 222px;
+    margin-right: 16px;
+}
+.arrows-right {
+    display: flex;
+    justify-content: flex-end;
+}
+  /* Position Arrows Below Content */
+.arrows-below {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  margin: 0px 15px 10px;
+  justify-content: flex-end;
+
+}
+.arrow-container {
+    padding: 10px 351px 17px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px; /* Adjust padding as needed */
+    align-items: center;
+}
+
+.left-arrow, .right-arrow {
+  width: 40px; /* Adjust width as needed */
+  cursor: pointer;
+}
+
+  
 .video-modal {
     display: none;
     position: fixed;
@@ -133,3 +168,92 @@
     cursor: pointer;
   }
   
+@media (max-width: 1084px) {
+  .arrow-container {
+      padding: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+    .arrow-container {
+        padding: 9px;
+    }
+}
+
+
+/* Style the main arrow */
+.arrows-right {
+    position: relative;
+    width: 50px; /* Slightly larger main arrow */
+    cursor: pointer;
+}
+
+.arrows-right::after,
+.arrows-right::before {
+    content: '>';
+    position: absolute;
+    font-size: 20px; /* Adjust size as needed */
+    opacity: 0;
+    color: #333;
+}
+
+/* Right arrow animation only when active */
+.arrows-right.active::before {
+    left: -27px;
+    opacity: 0.6;
+    animation: arrowMove 0.6s linear infinite;
+}
+
+.arrows-right.active::after {
+    left: -1px;
+    opacity: 0.3;
+    animation: arrowMove 0.6s linear infinite 0.3s;
+}
+
+/* Keyframe animation to move pseudo-elements right */
+@keyframes arrowMove {
+    0% { transform: translateX(-5px); opacity: 0; }
+    50% { opacity: 1; }
+    100% { transform: translateX(5px); opacity: 0; }
+}
+
+/* Left arrow styling */
+.arrows-left {
+    position: relative;
+    width: 50px;
+    cursor: pointer;
+    transform: rotate(180deg);
+}
+
+.arrows-left::after,
+.arrows-left::before {
+    content: '>';
+    position: absolute;
+    font-size: 20px;
+    opacity: 0;
+    color: #333;
+}
+
+/* Left arrow animation only when active */
+.arrows-left.active::before {
+    right: 51px;;
+    opacity: 0.6;
+    animation: arrowMoveLeft 0.6s linear infinite;
+}
+
+.arrows-left.active::after {
+    right: 71px;
+    opacity: 0.3;
+    animation: arrowMoveLeft 0.6s linear infinite 0.3s;
+}
+
+/* Keyframe animation to move pseudo-elements left */
+@keyframes arrowMoveLeft {
+    0% { transform: translateX(5px); opacity: 0; }
+    50% { opacity: 1; }
+    100% { transform: translateX(-5px); opacity: 0; }
+}
+
+img#rightArrow {
+    margin-top: 2px;
+}

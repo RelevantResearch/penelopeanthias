@@ -20,29 +20,43 @@
             <div class="description">
               {% for video in site.data.settings.videos.items %}
               <div class="description-text {% if forloop.first %}active{% endif %}" id="description{{ forloop.index }}">
-                  <h3 class="h3-video">{{ video.title }}</h3>
-                  <p class="p-video">{{ video.description }}</p>
+                <h3 class="h3-video">{{ video.title }}</h3>
+                <p class="p-video">{{ video.description }}</p>
               </div>
               {% endfor %}
             </div>
-
+          
             <!-- Video Containers -->
             <div class="video-container">
               {% for video in site.data.settings.videos.items %}
               <div class="video-wrapper {% if forloop.first %}active{% endif %}" id="video{{ forloop.index }}">
-                  <iframe width="360" height="225" src="{{ video.url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="360" height="225" src="{{ video.url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               {% endfor %}
-
+          
               <!-- Bullet Indicators -->
               <div class="bullet-indicators">
-                  {% for video in site.data.settings.videos.items %}
-                  <div class="bullet {% if forloop.first %}selected{% endif %}" id="bullet{{ forloop.index }}" onclick="showVideo({{ forloop.index }})"></div>
-                  {% endfor %}
+                {% for video in site.data.settings.videos.items %}
+                <div class="bullet {% if forloop.first %}selected{% endif %}" id="bullet{{ forloop.index }}" onclick="showVideo({{ forloop.index }})"></div>
+                {% endfor %}
               </div>
+              <!-- Arrow Container -->
+
             </div>
           </div>
-
+          <div class="arrow-container">
+            <div class="arrows-left">
+              <img src="https://images.squarespace-cdn.com/content/v1/65a7ad1438ede53e0c910787/0797e405-e284-4421-af9b-7e2516599c1f/arrow-style.png?format=100w"
+                class="right-arrow" id="rightArrow" onclick="navigateVideo(1)" alt="Right Arrow">
+              
+            </div>
+        
+            <div class="arrows-right">
+              <img src="https://images.squarespace-cdn.com/content/v1/65a7ad1438ede53e0c910787/0797e405-e284-4421-af9b-7e2516599c1f/arrow-style.png?format=100w"
+                class="left-arrow" id="leftArrow" onclick="navigateVideo(-1)" style="display: none;" alt="Left Arrow">
+            </div>
+          </div>
+          
         </div>
       </div>
     </div>
