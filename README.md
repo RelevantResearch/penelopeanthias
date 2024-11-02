@@ -1,7 +1,7 @@
 # README for Penelope Anthias Website
 
 ## Overview
-This website, created for Penelope Anthias, serves as a digital portfolio to showcase her academic work and publications. It uses the **Priam** theme for Jekyll, designed to highlight creative and professional portfolios with minimal customization.
+This website, created for Penelope Anthias, serves as a digital portfolio to showcase her academic work and publications. It uses the **Priam** theme for Jekyll, and developed by [Relevant Research](https://relevant-research.com/). 
 
 ## Table of Contents
 - [About Penelope Anthias](#about-penelope-anthias)
