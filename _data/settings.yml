@@ -19,37 +19,30 @@ breadcrumbs:
 
 
 #-------------------------------
-# Navigation Settings
 menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
     - title: 'Updates'
       url: '/updates/'
-    - title: 'Current Research'
+    - title: 'Research'
       url: '/research/'
+      sub_items:
+        - title: 'Article 1'
+          url: '/research/article-1/'
+        - title: 'Article 2'
+          url: '/research/article-2/'
+        - title: 'Article 3'
+          url: '/research/article-3/'
     - title: 'Books'
       url: '/books/'
     - title: 'Publications'
       url: '/publications/'
-    # - title: '🚀 Projects'
-    #   url: '/projects/'
     - title: 'Films'
       url: '/films/'
-    # - title: '👨🏻‍💻 About'
-    #   url: '/about/'
-    # - title: '📷 Gallery'
-    #   url: '/gallery/'
-    # - title: '✍️ Blog'
-    #   url: '/blog/'
-    # - title: '📔 Elements'
-    #   url: '/elements/'
     - title: 'Public Engagement'
       url: '/public-engagement/'
-    # - title: 'Teaching'
-    #   url: '/teaching/'
-    
-    
+
 
 
 #-------------------------------
