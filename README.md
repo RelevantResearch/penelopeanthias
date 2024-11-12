@@ -1,115 +1,40 @@
-# Penelope Anthias
+# README for Penelope Anthias Website
 
-Website for Penelope Anthias.
-To update any section of the page, simply navigate to the "Posts" section and select the specific area you'd like to modify.
+## Overview
+This website, created for Penelope Anthias, serves as a digital portfolio to showcase her academic work and publications. It uses the **Priam** theme for Jekyll, and developed by [Relevant Research](https://relevant-research.com/). 
 
-## Theme
+## Table of Contents
+- [About Penelope Anthias](#about-penelope-anthias)
+- [About Relevant Research](#about-relevant-research)
+- [Theme Acknowledgment](#theme-acknowledgment)
+- [Getting Started](#getting-started)
+- [Updating Content](#updating-content)
+- [Domain and Current Links](#domain-and-current-links)
 
-Use Priam theme (see Slack for link to download). We should be able to plug and play with little modification.
+## About Penelope Anthias
+Penelope Anthias’s research examines struggles around indigeneity, territory, and the politics of resource extraction in Latin America. Her work is grounded in over a decade and a half of engaged ethnographic research in Bolivia’s Chaco region, contributing deep insights into these complex social and environmental dynamics.
 
-## Website Structure
+## About Relevant Research
+At Relevant Research, we believe that the public communication of rigorous research can shape a better future. Every academic’s work deserves to reach its full potential, and we provide the tools and strategies to make that happen. With our personalized support, partner scholars can focus on developing and advancing their research, while we handle the technical and logistical challenges that have become common in contemporary academia. Our commitment is to amplify the impact of research, helping academics connect with wider audiences and contribute meaningfully to their fields.
 
-```
-|-- home (one feature photo at top)
-    |-- Latest updates (This section we will update monthly with upcoming events and recent announcements using bullet points)
-    |-- My research (This section is just text, maybe ~400 words and 3 short paragraphs)
-    |-- Book (feature one book, link to books page)
-    |-- Films (Two films)
-    |-- Publications (This section is a simple text block with the 4-5 most recent publications listed there, and users can click through to see all publications.)
-|-- Research  
-    |-- Reproduce the same text, links, and paragraphs on her faculty page here.
-|-- Publications (simple text page)
-    |-- academic articles
-    |-- books
-    |-- public articles
-    |-- other media
-|-- Films
-    |-- include two films both on youtube, add description
-|-- Updates 
-    (list of updates, announcements, and events by year and month)
-|-- teaching 
-    (do be determined)
-|-- impact 
-    (do be determined)
+## Theme Acknowledgment
+This website uses the **Priam** theme by [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko). Priam is a minimalistic Jekyll theme tailored for professional portfolios, providing an adaptable layout for showcasing expertise.  
+**Live Demo**: [Priam Demo](https://priam-jekyll.netlify.app/)
 
-```
+## Getting Started
+1. **Dependencies**: Ensure you have Jekyll installed by following [Jekyll's installation guide](https://jekyllrb.com/docs/installation/).
+2. **Setup**:
+   - Clone this repository.
+   - Run `bundle install` to install dependencies.
+   - Use `jekyll serve` to preview locally.
+3. **Deployment**: The site can be deployed on any Jekyll-compatible hosting provider. Ensure the domain **penelopeanthias.com** is correctly configured for deployment.
 
-## Domain
+## Updating Content
+To update any section of the website:
+1. Go to the **Posts** section.
+2. Select the section to modify and edit as necessary. This enables easy content updates without altering the site's core structure.
 
-I purchased penelopeanthias.com and gave Riwaj manager access.
+## Domain and Current Links
+- **Domain**: [penelopeanthias.com](http://penelopeanthias.com)
+- **Faculty Page**: [Durham University](https://www.durham.ac.uk/staff/penelope-f-anthias/)
 
-## Current Websites
-
-Faculty page: https://www.durham.ac.uk/staff/penelope-f-anthias/
-Her personal website (unfinished): https://panthias9.wordpress.com/
-
-
-# Priam – Minimalistic Portfolio Theme for Jekyll
-
-Unlock the potential of your creative prowess with Priam, a stunning and innovative portfolio theme for Jekyll. Whether you're an artist, designer, developer, or any professional looking to showcase your skills and accomplishments, this theme provides the perfect canvas for your online presence.
-
-* * *
-
-### Demo
-
-Check the theme in action [Live Demo](https://priam-jekyll.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
-
-* * *
-
-### Theme features
-
-- Works with GitHub Pages (host it for free)
-- Dark and light mode
-- No jQuery, only vanilla JS
-- 100% responsive Design
-- Clean Code
-- Optimized for mobile devices
-- Section Blog
-- Section Projects
-- Section Gallery
-- Section Testimonials
-- Super fast performance ⚡⚡⚡
-- Social sharing buttons
-- Syntax highlighting
-- Compatible with modern browsers
-- Medium style image zoom
-- Image Lazy loading
-- Image gallery
-- Tags Page
-- Supports Video Posts
-- Supports contact form (Formspree)
-- Supports MailChimp newsletter
-- Supports Disqus comments
-- Supports Google Analytics
-- Font Awesome icons
-- Free Google Fonts
-- Free Updates & Support
-
-* * *
-
-### Installation
-
-#### Installing Ruby & Jekyll
-
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
-
-* * *
-
-### Deployment
-
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
-* * *
-
-### Documentation
-
-Before using the Priam theme, please read the attached documentation.
-
-* * *
-
-### Support
-
-<p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
