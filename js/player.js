@@ -1,28 +1,31 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const videoCards = document.querySelectorAll(
-    ".custom-video-thumbnail-container"
-  );
-  const modal = document.getElementById("customVideoModal");
-  const videoPlayer = document.getElementById("customVideoPlayer");
-  const closeModalBtn = document.querySelector(".custom-close-btn");
+let currentVideoIndex = 1;
 
-  videoCards.forEach((card) => {
-    card.addEventListener("click", function () {
-      const videoId = this.getAttribute("data-video-id");
-      videoPlayer.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`;
-      modal.style.display = "flex";
-    });
-  });
+function navigateVideo(direction) {
+    const videos = document.querySelectorAll('.video-wrapper');
+    const descriptions = document.querySelectorAll('.description-text');
+    const bullets = document.querySelectorAll('.bullet');
 
-  closeModalBtn.addEventListener("click", function () {
-    modal.style.display = "none";
-    videoPlayer.src = "";
-  });
+    // Remove active class from current elements
+    videos[currentVideoIndex - 1].classList.remove('active');
+    descriptions[currentVideoIndex - 1].classList.remove('active');
+    bullets[currentVideoIndex - 1].classList.remove('selected');
 
-  window.addEventListener("click", function (event) {
-    if (event.target === modal) {
-      modal.style.display = "none";
-      videoPlayer.src = "";
-    }
-  });
-});
+    // Update the current video index
+    currentVideoIndex += direction;
+
+    // Ensure the index is within bounds
+    if (currentVideoIndex > videos.length) currentVideoIndex = videos.length;
+    if (currentVideoIndex < 1) currentVideoIndex = 1;
+
+    // Add active class to the new elements
+    videos[currentVideoIndex - 1].classList.add('active');
+    descriptions[currentVideoIndex - 1].classList.add('active');
+    bullets[currentVideoIndex - 1].classList.add('selected');
+
+    // Control the visibility of the arrows
+    document.getElementById('leftArrow').style.display = currentVideoIndex === 1 ? 'none' : 'inline';
+    document.getElementById('rightArrow').style.display = currentVideoIndex === videos.length ? 'none' : 'inline';
+}
+
+// Initial visibility for arrows
+document.getElementById('leftArrow').style.display = 'none';

@@ -1,0 +1,26 @@
+.nav__item.has-submenu {
+    position: relative;
+  }
+  
+  .sub-nav__list {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav__item:hover .sub-nav__list {
+    display: block;
+  }
+  
+  .sub-nav__item {
+    padding: 8px 16px;
+  }
+  
+  .sub-nav__link {
+    color: #333;
+    text-decoration: none;
+  }
+  

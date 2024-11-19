@@ -1,0 +1,73 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Header Section */
+.header {
+  text-align: start;
+  padding: 20px;
+  width: 100%;
+}
+
+.logo {
+  font-family: "Big Caslon", serif;
+  font-size: 2.5rem;
+}
+
+/* Main Content Layout */
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  max-width: 1200px;
+  margin: 20px auto;
+  gap: 20px;
+}
+
+.construction-text,
+.infographic {
+  flex: 1;
+}
+
+/* Left Section - Text */
+.construction-text {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.construction-text h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.construction-text p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Right Section - Infographic */
+.infographic img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .content {
+    flex-direction: column;
+  }
+}

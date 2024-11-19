@@ -172,9 +172,6 @@ strong, b {
   color: var(--heading-font-color);
 }
 
-strong:hover, b:hover {
-  color: blue;
-}
 
 hr {
   width: 100%;
@@ -325,3 +322,24 @@ table td {
 .lightense-backdrop {
   background-color: var(--background-color) !important;
 }
+.row-video {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 1 auto;
+  flex-direction: row;
+  box-sizing: border-box;
+  margin-left: -16px;
+  margin-right: -16px;
+  margin-bottom: 17px;
+  align-items: center;
+  margin-top: -39px;
+}
+h3.h3-video,
+p.p-video {
+  margin-left: 61px;
+}
+
+iframe{
+  border-radius: 15px;
+}
+

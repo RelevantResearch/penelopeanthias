@@ -7,9 +7,11 @@ description: Welcome to the home for the latest news, events, and announcements 
 
 ## 2024
 
+- **December 2024 (Upcoming):** The Special Issue “Leaks: The politics of awkward circulations in Latin America’s geographies of energy production,” which I co-edited with Mattias Borg Rasmussen, Stine Krøijer, and Maria Cariola Ericksson, is now in production with the Journal of Latin American Geography and will be published in the December 2024 issue. We are grateful to JLAG editors for their support and enthusiasm for this project.
+
 - **1 September 2024:** Started my one-year British Academy Mid-Career Fellowship. My project, Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas, will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
 
-- **20 August 2024:** This week I completed an intensive course on non-extractive filmmaking with the African film collective [AFRISOS](https://www.afrisos.ngo). The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors Jigar Ganatra and Thige Njuguna.
+- **20 August 2024:** This week I completed an intensive course on non-extractive filmmaking with the African film collective [<span class="blue">AFRISOS</span>](https://www.afrisos.ngo). The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors Jigar Ganatra and Thige Njuguna.
 
 - **16 August 2024:** Article accepted by Journal of Latin American Geography. My article, Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier will be part of the Leaks Project Special Issue titled The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production.
 
