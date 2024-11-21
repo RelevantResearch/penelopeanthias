@@ -1,6 +1,6 @@
 book1:
   title: "Limits to Decolonization: Indigeneity, Territory and Hydrocarbon Politics in the Bolivian Chaco"
-  description: "My first solo-authored book is an ethnographic account of the Guaraní's two-decade-long struggle for land in the Bolivian Chaco. Despite aspirations to the contrary, years of indigenous territorial mapping have not resulted in autonomy and self-determination. My book raises questions about the radical potential of mapping as a political practice, examines the limits to state recognition, and highlights the ongoing modes of creative and persistent resistance among indigenous peoples."
+  description: "My first solo-authored book is an ethnographic account of the Guaraní's two-decade-long struggle for land <span class='red'>and territory</span> in the Bolivian Chaco, <span class='red'>amidst a gas boom and during a period of national political change under the Movement Towards Socialism government.</span> Despite aspirations to the contrary, years of indigenous territorial mapping and <span class='red'>land-titling </span> have not resulted in autonomy and self-determination. My book raises questions about <span class='red'> the role of recognition politics in redressing colonial land relations or capitalist processes of dispossession,</span> and highlights the ongoing modes of creative and persistent resistance among Indigenous Peoples."
   image: "/images/book.png"
   publisher:
     name: "Cornell University Press"

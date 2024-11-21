@@ -19,6 +19,17 @@ On this page, you'll find examples of how I connect my work with the broader pub
 - Escobar, A. (2023). [La mirada oblicua de Penelope.](https://elpais.bo/sociales/20230401_la-mirada-oblicua-de-penelope.html) *El País*.
 - Taylor, L. (2019). [Land Struggles: From Bolivia to Britain.](https://www.bbc.co.uk/sounds/play/m0008wpf). *Thinking Allowed* on BBC Radio 4. Show description: Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.
 
+### Maria Galindo Interview  
+
+In 2023, Maria Galindo, a leading Bolivian radical feminist, shared her thoughts on resistance and social movements in an interview. You can watch the full video below:  
+
+
+<div class="fb-video-wrapper">
+  <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/radiodeseo103.3/videos/248755431150923" 
+          allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" 
+          allowfullscreen></iframe>
+</div>
+
 ## Book Outreach in Bolivia
 
 Alongside the publication of the Spanish language edition of my book *Limits to Decoloniazation* (as *Límites a la descolonización*), I held several jointly coordinated events in Bolivia to discuss the context and implications of this work. Learn more about this book and download Spanish language version for free [on my books page](https://penelopeanthias.com/books/). You can also see samples of images and videos from the [book tour in Bolivia here.]({{ site_url }}/books/limitesaladescolonizacion/)

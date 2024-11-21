@@ -9,6 +9,8 @@ description: Welcome to the home for the latest news, events, and announcements 
 
 - **December 2024 (Upcoming):** The Special Issue “Leaks: The politics of awkward circulations in Latin America’s geographies of energy production,” which I co-edited with Mattias Borg Rasmussen, Stine Krøijer, and Maria Cariola Ericksson, is now in production with the Journal of Latin American Geography and will be published in the December 2024 issue. We are grateful to JLAG editors for their support and enthusiasm for this project.
 
+- **9th November 2024:** I testified in a Bolivian court hearing in defence of community members from Chiquiacá Canton in Bolivia's Tariquía Reserve, who are facing criminal charges for obstructing the entry of oil companies Petrobras and YPFB into their communities without prior consultation and contrary to a recent vote by local peasant unions. My documentary Don't Touch Tariquía was presented as evidence in the case, which it is hoped will pave the way for an appeal to the Inter-American Court of Human Rights.
+
 - **1 September 2024:** Started my one-year British Academy Mid-Career Fellowship. My project, Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas, will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
 
 - **20 August 2024:** This week I completed an intensive course on non-extractive filmmaking with the African film collective [<span class="blue">AFRISOS</span>](https://www.afrisos.ngo). The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors Jigar Ganatra and Thige Njuguna.

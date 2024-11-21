@@ -19,6 +19,13 @@ Durham University and Plural Editores hosted the presentation of the book **"Lí
           allowfullscreen></iframe>
 </div>
 
+<div class="fb-video-wrapper">
+  <iframe src="https://www.facebook.com/plugins/video.php?href=https://fb.watch/uTU1sG6Fdl/" 
+          allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" 
+          allowfullscreen></iframe>
+</div>
+
+
 ![Conference Image 2](/images/Límites/tarija.jpg) <!-- Image 3 -->
 
 ---
