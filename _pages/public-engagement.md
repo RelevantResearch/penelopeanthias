@@ -17,7 +17,7 @@ On this page, you'll find examples of how I connect my work with the broader pub
 
 - Graham, T. (2024). [Power to the people? Bolivia’s hunt for gas targets national parks – and divides communities](https://www.theguardian.com/global-development/2024/apr/10/bolivias-hunt-for-gas-targets-national-parks-and-divides-communities-tariquia). *The Guardian*.
 - Escobar, A. (2023). [La mirada oblicua de Penelope.](https://elpais.bo/sociales/20230401_la-mirada-oblicua-de-penelope.html) *El País*.
-- Taylor, L. (2019). [Land Struggles: From Bolivia to Britain.](https://www.bbc.co.uk/sounds/play/m0008wpf). *Thinking Allowed* on BBC Radio 4. Show description: Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.
+- Taylor, L. (2019). [Land Struggles: From Bolivia to Britain.](https://www.bbc.co.uk/sounds/play/m0008wpf) *Thinking Allowed* on BBC Radio 4. Show description: Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.
 
 ### Maria Galindo Interview  
 
