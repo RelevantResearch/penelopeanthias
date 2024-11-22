@@ -21,7 +21,7 @@ On this page, you'll find examples of how I connect my work with the broader pub
 
 ### Maria Galindo Interview  
 
-In 2023, Maria Galindo, a leading Bolivian radical feminist, shared her thoughts on resistance and social movements in an interview. You can watch the full video below:  
+In 2023, Maria Galindo, a leading Bolivian radical feminist, and Penelope Anthias, engaged in a thought-provoking conversation about resistance and social movements. You can watch the full video below:  
 
 
 <div class="fb-video-wrapper">
