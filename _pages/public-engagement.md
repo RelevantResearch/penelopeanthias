@@ -17,11 +17,22 @@ On this page, you'll find examples of how I connect my work with the broader pub
 
 - Graham, T. (2024). [Power to the people? Bolivia’s hunt for gas targets national parks – and divides communities](https://www.theguardian.com/global-development/2024/apr/10/bolivias-hunt-for-gas-targets-national-parks-and-divides-communities-tariquia). *The Guardian*.
 - Escobar, A. (2023). [La mirada oblicua de Penelope.](https://elpais.bo/sociales/20230401_la-mirada-oblicua-de-penelope.html) *El País*.
-- Taylor, L. (2019). [Land Struggles: From Bolivia to Britain.](https://www.bbc.co.uk/sounds/play/m0008wpf). *Thinking Allowed* on BBC Radio 4. Show description: Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.
+- Taylor, L. (2019). [Land Struggles: From Bolivia to Britain.](https://www.bbc.co.uk/sounds/play/m0008wpf) *Thinking Allowed* on BBC Radio 4. Show description: Dr. Penelope Anthias highlights the struggles of indigenous Bolivians to reclaim ancestral lands after a century of dispossession.
+
+### Maria Galindo Interview  
+
+In 2023, Maria Galindo, a leading Bolivian radical feminist, and Penelope Anthias, engaged in a thought-provoking conversation about resistance and social movements. You can watch the full video below:  
+
+
+<div class="fb-video-wrapper">
+  <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/radiodeseo103.3/videos/248755431150923" 
+          allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" 
+          allowfullscreen></iframe>
+</div>
 
 ## Book Outreach in Bolivia
 
-Alongside the publication of the Spanish language edition of my book *Limits to Decoloniazation* (as *Límites a la descolonización*), I held several jointly coordinated events in Bolivia to discuss the context and implications of this work. Learn more about this book and download Spanish language version for free [on my books page](https://penelopeanthias.com/books/). You can also see samples of images and videos from the [book tour in Bolivia here](https://penelopeanthias.com/books/limitesaladescolonizacion/).
+Alongside the publication of the Spanish language edition of my book *Limits to Decoloniazation* (as *Límites a la descolonización*), I held several jointly coordinated events in Bolivia to discuss the context and implications of this work. Learn more about this book and download Spanish language version for free [on my books page](https://penelopeanthias.com/books/). You can also see samples of images and videos from the [book tour in Bolivia here.]({{ site_url }}/books/limitesaladescolonizacion/)
 
 ![Book presentation in Bolivia](/images/Límites/conference1.jpg)
 

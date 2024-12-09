@@ -1,51 +1,70 @@
 ---
 layout: page
 title: Books
-
 ---
 
 <!-- begin page -->
 <div class="book-gallery container">
-  <h2>
-    Limits to Decolonization: Indigeneity, Territory and Hydrocarbon Politics in the Bolivian Chaco
-  </h2>
+
+  <!-- Access Book 1 -->
+  <h2>{{ site.data.book.book1.title }}</h2>
   <!-- Book 1: Image on Left, Description on Right -->
   <div class="book-item">
-
     <div class="book-details">
+      <p>{{ site.data.book.book1.description }}</p>
       <p>
-        My first solo-authored book is an ethnographic account of the Guaraní's two-decade-long struggle for land in the Bolivian Chaco. Despite aspirations to the contrary, years of indigenous territorial mapping have not resulted in autonomy and self-determination. My book raises questions about the radical potential of mapping as a political practice, examines the limits to state recognition, and highlights the ongoing modes of creative and persistent resistance among indigenous peoples.
+        You can purchase the book directly from the publisher, 
+        <a href="{{ site.data.book.book1.publisher.url }}"><span>{{ site.data.book.book1.publisher.name }}</span></a>, 
+        or online at 
+        <a href="{{ site.data.book.book1.amazon.url }}"><span>Amazon</span></a> or 
+        <a href="{{ site.data.book.book1.barnes_and_noble.url }}"><span>Barnes and Noble</span></a>, 
+        or if you're in the U.S., you can also borrow it from a 
+        <a href="{{ site.data.book.book1.library.url }}"><span>public library near you</span></a>.
+      </p>
+      <p> 
+        The book was translated into Spanish in 2022 and is available as an open access PDF. 
+        <a href="{{ site.data.book.book1.download.url }}">
+          <span>{{ site.data.book.book1.download.title }}</span>
+        </a>
       </p>
       <p>
-        You can purchase the book directly from the publisher, <a href="https://www.cornellpress.cornell.edu/book/9781501714368/limits-to-decolonization/#bookTabs=1"><span>Cornell University Press</span></a>, or online at <a href="https://www.amazon.com/Limits-Decolonization-Indigeneity-Hydrocarbon-Perspectives/dp/1501714368"><span>Amazon</span></a> or <a href="https://www.barnesandnoble.com/w/limits-to-decolonization-penelope-anthias/1126834846?ean=9781501714368"><span>Barnes and Noble</span></a> or if you're in the U.S., you can also borrow it from a <a href="https://search.worldcat.org/title/1001968626"><span>public library near you</span></a>. You can watch a lecture on the core themes of the book presented at the University of Florida <a href="https://www.youtube.com/watch?v=zZXMiGkiHqE"><span>on YouTube</span></a>.
+        My thanks to the translator, {{ site.data.book.book1.translator.name }}, and the publisher, 
+        <a href="{{ site.data.book.book1.publisher_spanish.url }}">
+          <span>{{ site.data.book.book1.publisher_spanish.name }}</span>
+        </a> in La Paz for making this accessible. Learn about the public events in Bolivia that accompanied the release of the Spanish version of the book on the 
+        <a href="{{ site.data.book.book1.public_events.facebook_page }}">
+          <span>{{ site.data.book.book1.public_events.description }}</span>
+        </a>.
       </p>
+      
 
-      <p>
-        The book was translated into Spanish in 2022, available as an <a href="https://penelopeanthias.com/images/spanish.pdf"><span>open-access PDF</span></a>. My thanks to the translator, H. Calla Ortega, and the publisher, <a href="http://www.plural.bo/"><span>Plural Editores</span></a> in La Paz for making this accessible. Learn about the public events in Bolivia that accompanied the release of the Spanish version of the book on the <a href="https://www.facebook.com/profile.php?id=100090929704323"><span>Facebook page for Límites a la descolonización</span></a>.
-      </p>
     </div>
     <div class="book-image">
       <!-- Use site.url to generate absolute URLs -->
-      <img src="{{ site.url }}/images/book1.png" alt="Limits to Decolonization" loading="lazy">
+      <img src="{{ site.url }}{{ site.data.book.book1.image }}" alt="{{ site.data.book.book1.title }}" loading="lazy">
     </div>
   </div>
 
-<h2>Neoextractivism and Territorial Disputes in Latin America: Social-ecological Conflict and Resistance on the Front Lines</h2>
+  <!-- Access Book 2 -->
+  <h2>{{ site.data.book.book2.title }}</h2>
   <!-- Book 2: Image on Right, Description on Left -->
   <div class="book-item reverse">
-    
     <div class="book-image">
-      <img src="{{ site.url }}/images/book3.png" alt="Neoextractivism and Territorial Disputes in Latin America" loading="lazy">
+      <img src="{{ site.url }}{{ site.data.book.book2.image }}" alt="{{ site.data.book.book2.title }}" loading="lazy">
     </div>
-    
     <div class="book-details">
-        
-        <p>In this collected work, co-edited by <a href="http://calas.lat/en/content/pabel-camilo-lópez-flores"><span>Pabel C. López Flores</span></a> and me, a variety of authors explore the expansion of extractive industries into new territories and the powerful resistance movements emerging in response. Each chapter dives into different contexts across the region, revealing how communities are standing up to protect their lands, reclaim their rights, and push back against ecological and social injustices. This book isn’t just about documenting struggles – it's about envisioning a different kind of future, one where sustainable alternatives and post-extractive possibilities are realized.</p>
-        <p>You can purchase the book directly from the publisher, <a href="https://www.routledge.com/Neoextractivism-and-Territorial-Disputes-in-Latin-America-Social-ecological-Conflict-and-Resistance-on-the-Front-Lines/Anthias-LopezFlores/p/book/9781032212388?srsltid=AfmBOorpFHFZ8kk-GTQLDeTxiCrsOS7Hhb2w4VqTOId9bBfevhDP7U02"><span>Routledge</span></a>, online at <a href="https://www.amazon.com/Neoextractivism-Territorial-Disputes-Routledge-Development/dp/1032212381/ref=sr_1_1?crid=1E5KKEI9SFG5K&dib=eyJ2IjoiMSJ9.GVnKotLLIkMGrJuIfdjxcw.sEcZ6wpesWAeRrH33LhR_HKkxTJ01tzYz8m2HDbpUS0&dib_tag=se&keywords=Neoextractivism+and+Territorial+Disputes+in+Latin+America%3A+Social-ecological+Conflict+and+Resistance+on+the+Front+Lines.&qid=1729215709&sprefix=neoextractivism+and+territorial+disputes+in+latin+america+social-ecological+conflict+and+resistance+on+the+front+lines.%2Caps%2C76&sr=8-1"><span>Amazon</span></a> or <a href="https://www.barnesandnoble.com/w/neoextractivism-and-territorial-disputes-in-latin-america-penelope-anthias/1143789707?ean=9781032212388"><span>Barnes and Noble</span></a>, or if you are in the United States, you can borrow it from a <a href="https://search.worldcat.org/title/1392402494?oclcNum=1392402494"><span>public library near you</span></a>.</p>
-      </div>
-    
+      <p>{{ site.data.book.book2.description }}</p>
+      <p>
+        You can purchase the book directly from the publisher, 
+        <a href="{{ site.data.book.book2.publisher.url }}"><span>{{ site.data.book.book2.publisher.name }}</span></a>, 
+        or online at 
+        <a href="{{ site.data.book.book2.amazon.url }}"><span>Amazon</span></a> or 
+        <a href="{{ site.data.book.book2.barnes_and_noble.url }}"><span>Barnes and Noble</span></a>, 
+        or if you're in the U.S., you can also borrow it from a 
+        <a href="{{ site.data.book.book2.library.url }}"><span>public library near you</span></a>.
+      </p>
+      <p>{{ site.data.book.book2.additional_info }}</p>
+    </div>
   </div>
-
 </div>
 <!-- end page -->
-

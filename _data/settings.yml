@@ -19,37 +19,30 @@ breadcrumbs:
 
 
 #-------------------------------
-# Navigation Settings
 menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
     - title: 'Updates'
       url: '/updates/'
-    - title: 'Current Research'
+    - title: 'Research'
       url: '/research/'
+      sub_items:
+        - title: 'Article 1'
+          url: '/research/article-1/'
+        - title: 'Article 2'
+          url: '/research/article-2/'
+        - title: 'Article 3'
+          url: '/research/article-3/'
     - title: 'Books'
       url: '/books/'
     - title: 'Publications'
       url: '/publications/'
-    # - title: '🚀 Projects'
-    #   url: '/projects/'
     - title: 'Films'
       url: '/films/'
-    # - title: '👨🏻‍💻 About'
-    #   url: '/about/'
-    # - title: '📷 Gallery'
-    #   url: '/gallery/'
-    # - title: '✍️ Blog'
-    #   url: '/blog/'
-    # - title: '📔 Elements'
-    #   url: '/elements/'
     - title: 'Public Engagement'
       url: '/public-engagement/'
-    # - title: 'Teaching'
-    #   url: '/teaching/'
-    
-    
+
 
 
 #-------------------------------
@@ -73,6 +66,14 @@ updates:
   updates_description: "Stay up-to-date with the latest announcements, milestones, and events from my professional journey."
 
 update_items:
+  - date: "December 2024 (Upcoming)"
+    content: |
+       The Special Issue “Leaks: The politics of awkward circulations in Latin America’s geographies of energy production,” which I co-edited with Mattias Borg Rasmussen, Stine Krøijer, and Maria Cariola Ericksson, is now in production with the Journal of Latin American Geography and will be published in the December 2024 issue. We are grateful to JLAG editors for their support and enthusiasm for this project.
+
+  - date: "9 November 2024"
+    content: |
+      I testified in a Bolivian court hearing in defence of community members from Chiquiacá Canton in Bolivia’s Tariquía Reserve, who are facing criminal charges for obstructing the entry of oil companies Petrobras and YPFB into their communities without prior consultation and contrary to a recent vote by local peasant unions. My documentary Don’t Touch Tariquía was presented as evidence in the case, which it is hoped will pave the way for an appeal to the Inter-American Court of Human Rights.
+
   - date: "1 September 2024"
     content: |
       Started my one-year British Academy Mid-Career Fellowship. My project, "Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas, will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
@@ -85,19 +86,13 @@ update_items:
     content: |
       Article accepted by Journal of Latin American Geography. My article, Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier will be part of the Leaks Project Special Issue titled The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production.
 
-  - date: "15 July 2024"
-    content: |
-       New paper published in Antipode: Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation. Co-authored with Prof. Kiran Asher.
-
-  - date: "3 July 2024"
-    content: |
-      Attended the Society for Latin American Studies Annual Conference in Amsterdam. I participated in a panel on Indigenous Citizenship and shared reflections from my work with Guaraní people of Bolivia.
-
+  
+  
 
 research:
   enable: true
   research_title: "My Research"
-  research_description: 
+  research_description: "My research examines the struggles surrounding indigeneity, territory, and resource extraction in Latin America, particularly based on over 15 years of ethnographic work in Bolivia’s Chaco region. I contribute to interdisciplinary discussions on extractivism, territory, and decolonial politics, focusing on the interplay between hydrocarbons and citizenship in neoextractivist states, the implications of neoliberal multiculturalism for Indigenous movements, and the micro-politics of race and property at (post)colonial frontiers. Through in-depth case studies, I explore how fossil capitalism intersects with (post)colonial struggles, shaping new subjectivities, governable spaces, and political possibilities. Notable case studies include a Guaraní territorial claim over Bolivia’s largest gas field, a regional autonomy initiative linking plurinationalism to gas revenues, and a conflict over gas development in a protected area. My interdisciplinary approach incorporates critical literature on law, rights, extraction, and indigeneity, utilizing ethnographic methods, counter-mapping, and documentary filmmaking to investigate the dynamics of land, law, and extractivism in relation to Indigenous autonomy and citizenship."
 
 
 publication:
@@ -157,6 +152,21 @@ blog_settings:
   blog_title: Writing
   blog_description:
 
+
+# Videos Settings
+videos:
+  enable: true
+  videos_title: Films
+  videos_description: 
+  items:
+    - title: "Don't Touch Tariquia: The Resistance of Chiquiacá"
+      description: "This film explores a community's struggle to protect their land and livelihood from damaging oil exploration in the Tariquía Reserve, organizing protests and resistance to safeguard their environment and future."
+      url: "https://www.youtube.com/embed/R3SbF-nGZbI?si=nhTfN9Yqr99Z3hoZ"
+      thumbnail: "https://img.youtube.com/vi/R3SbF-nGZbI/hqdefault.jpg"
+    - title: "La Casa Nueva (The New House)"
+      description: "This film tells Judith's story near the Ariguanabo textile factory, highlighting her struggles with inadequate housing and her commitment to improving her living conditions while caring for her family."
+      url: "https://www.youtube.com/embed/rTmq6xQzOkY?si=rdd8gYU4_5OfT1Et"
+      thumbnail: "https://img.youtube.com/vi/rTmq6xQzOkY/maxresdefault.jpg"
 
 #-------------------------------
 # Videos Settings

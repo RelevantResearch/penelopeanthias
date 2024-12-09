@@ -169,7 +169,10 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
     .publication__image {
       width: 100%;       /* Make sure the image container takes the full width */
       padding: 0;        /* Remove any padding */
-      margin: 0;         /* Remove any margin */
+      margin: 16px;        /* Remove any margin */
     }
+    .col {
+      margin-bottom: -25px;
+  }
   }
 }
