@@ -66,3 +66,11 @@
     text-align: left;
   }
 }
+
+.copyright a {
+  color: orange;
+}
+
+.copyright a:hover {
+  color: blue !important;
+}
