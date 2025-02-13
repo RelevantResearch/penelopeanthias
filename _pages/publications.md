@@ -10,6 +10,8 @@ Below is a select list of publications focusing on peer-reviewed articles, books
 
 # Academic Articles
 
+- Anthias, P., Cariola, M., Krøijer, S., & Rasmussen, M.B. (2024). [Leaks: The Politics of Awkward Circulations in Latin America's Geographies of Energy Production](https://dx.doi.org/10.1353/lag.2024.a948095). *Journal of Latin American Geography, 23*(3), 8-23.
+- Anthias, P. (2024). [Cuts, Flows, and Leaks: Enclaving Practices and Countertopographies at Bolivia's Hydrocarbon-Conservation Frontier [Cortes, flujos y fugas: prácticas de enclavamiento y contratopografías en la frontera hidrocarburosconservación de Bolivia]](https://muse.jhu.edu/pub/15/article/948099). *Journal of Latin American Geography, 23*(3), 138-166.
 - Anthias, P., & Asher, K. (online). [Indigenous Natures and the Anthropocene: Racial Capitalism, Violent Materialities, and the Colonial Politics of Representation.](https://doi.org/10.1111/anti.13078)
 - Anthias, P. (2023). [Countertopographies and the futures of geographical thought.](https://doi.org/10.1177/20438206231171202) *Dialogues in Human Geography.*
 - Anthias, P. (2022). [The Pluri-Extractivist State: Regional Autonomy and the Limits of Indigenous Participation in Gran Chaco Province.](https://doi.org/10.1017/s0022216x21000997) *Journal of Latin American Studies*, 54(1), 125-154. 

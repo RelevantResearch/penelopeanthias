@@ -49,7 +49,7 @@ menu_settings:
 # Author Settings
 author:
   author_name: Dr. Penelope Anthias
-  author_role: Associate Professor of Geography, Durham University
+  author_role: Associate Professor in Human Geography, Durham University
   author_bio: My research examines struggles around indigeneity, territory and the politics of resource extraction in Latin America. This work is grounded in a decade and a half of engaged ethnographic research in Bolivia’s Chaco region.
   author_avatar: '/images/profile_picture.jpg'
   cta_button_text: Contact Me
@@ -66,27 +66,27 @@ updates:
   updates_description: "Stay up-to-date with the latest announcements, milestones, and events from my professional journey."
 
 update_items:
-  - date: "December 2024 (Upcoming)"
+  - date: "Upcoming"
     content: |
-       The Special Issue “Leaks: The politics of awkward circulations in Latin America’s geographies of energy production,” which I co-edited with Mattias Borg Rasmussen, Stine Krøijer, and Maria Cariola Ericksson, is now in production with the Journal of Latin American Geography and will be published in the December 2024 issue. We are grateful to JLAG editors for their support and enthusiasm for this project.
+       I am preparing to shoot her latest documentary (in collaboration with Bolivian filmmaker Luciana Decker Orozco), focusing on the struggle for legal recognition of a Guaraní community impacted by new gas development in and around Bolivia’s Tariquía National Reserve. Stay tuned for further updates!.
+  
+  - date: "February 2025"
+    content: |
+      The Special Issue <a href="(https://muse.jhu.edu/issue/54042)"><span>Leaks: The Politics of Awkward Circulations in Latin America’s Geographies of Energy Production</span></a>, co-edited by Penelope with Maria Cariola Ericksson, Stine Krøijer, and Mattias Borg Rasmussen, is now out!
+
+  - date: "February 2025"
+    content: |
+      My individual paper, <a href="http://durham-repository.worktribe.com/output/3355046/cuts-flows-and-leaks-enclaving-practices-and-countertopographies-at-bolivias-hydrocarbon-conservation-frontier-cortes-flujos-y-fugas-practicas-de-enclavamiento-y-contratopografias-en-la-frontera-hidrocarburosconservacion-de-bolivia"><span>Cuts, Flows, and Leaks: Enclaving Practices and Countertopographies at Bolivia's Hydrocarbon-Conservation Frontier</span></a>, interrogates the spatial practices and politics involved in remaking Bolivia's protected areas as territories of extraction, focusing on the ongoing conflict over natural gas development in the Tariquía National Reserve of Flora and Fauna.
+
+  - date: "February 2025"
+    content: |
+      I recently gave a talk about my work at Cafe Biocultural, Tarija City, Bolivia, followed by a lively debate on extractivism and resistance with local participants. For photos and more details about the event, please visit the <a href="/public-engagement"><span>Public Engagement page</span></a>.
 
   - date: "9 November 2024"
     content: |
       I testified in a Bolivian court hearing in defence of community members from Chiquiacá Canton in Bolivia’s Tariquía Reserve, who are facing criminal charges for obstructing the entry of oil companies Petrobras and YPFB into their communities without prior consultation and contrary to a recent vote by local peasant unions. My documentary Don’t Touch Tariquía was presented as evidence in the case, which it is hoped will pave the way for an appeal to the Inter-American Court of Human Rights.
 
-  - date: "1 September 2024"
-    content: |
-      Started my one-year British Academy Mid-Career Fellowship. My project, "Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas, will involve new research, the completion of a book manuscript, and the production of a documentary film based on my research on gas extraction in Bolivia’s Tariquía Reserve.
-  
-  - date: "20 August 2024"
-    content: |
-       This week I completed an intensive course on non-extractive filmmaking with the African film collective AFRISOS. The training, offered by Durham University, involved working in a group to make a short film under the guidance of mentors Jigar Ganatra and Thige Njuguna.
 
-  - date: "16 August 2024"
-    content: |
-      Article accepted by Journal of Latin American Geography. My article, Cuts, Flows, and Leaks: Enclave Imaginaries, Neoextractivist Territorialisation, and Countertopographies of Resistance at Bolivia’s Extraction-Conservation Frontier will be part of the Leaks Project Special Issue titled The Politics of Awkward Circulations in Latin America’s New and Old Geographies of Energy Production.
-
-  
   
 
 research:

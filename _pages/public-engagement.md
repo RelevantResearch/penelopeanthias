@@ -36,6 +36,13 @@ Alongside the publication of the Spanish language edition of my book *Limits to 
 
 ![Book presentation in Bolivia](/images/Límites/conference1.jpg)
 
+
+## Talk on Extractivism and Resistance in Tarija, Bolivia
+
+I gave a talk at Café Biocultural in Tarija, Bolivia, discussing extractivism and its impact. The event sparked a lively debate with local participants on resistance movements and their role in shaping the region’s future. For additional pictures, visit [here]({{ site_url }}/books/limitesaladescolonizacion/). 
+
+![Talk on Extractivism and Resistance at Café Biocultural, Tarija City, Bolivia](/images/Límites/talk.jpg)
+
 <!--
   <audio controls>
       <source src="/images/audio.mp4" type="audio/mpeg">
@@ -55,3 +62,4 @@ Alongside the publication of the Spanish language edition of my book *Limits to 
   <p><a href="https://www.bbc.co.uk/sounds/play/m0008wpf"><strong><span>Listen to the full interview here</span></strong></a></p>
 </details>
 -->
+
