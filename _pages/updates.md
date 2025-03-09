@@ -7,13 +7,13 @@ description: Welcome to the home for the latest news, events, and announcements 
 
 ## 2025
 
-- **Upcomming:** I am preparing to shoot her latest documentary (in collaboration with Bolivian filmmaker Luciana Decker Orozco), focusing on the struggle for legal recognition of a Guaraní community impacted by new gas development in and around Bolivia's Tariquía National Reserve. Stay tuned for further updates!
+- **Upcomming:** I am preparing to shoot my latest documentary (in collaboration with Bolivian filmmaker Luciana Decker Orozco), focusing on the struggle for legal recognition of a Guaraní community impacted by new gas development in and around Bolivia's Tariquía National Reserve. Stay tuned for further updates!
 
 - **February 2025:** The Special Issue [Leaks: The politics of awkward circulations in Latin America’s geographies of energy production](https://muse.jhu.edu/issue/54042), co-edited by Penelope with Maria Cariola Ericksson, Stine Krøijer, and Mattias Borg Rasmussen, is now out!.
 
 - **February 2025:** My individual paper, [Cuts, Flows, and Leaks: Enclaving Practices and Countertopographies at Bolivia's Hydrocarbon-Conservation Frontier](http://durham-repository.worktribe.com/output/3355046/cuts-flows-and-leaks-enclaving-practices-and-countertopographies-at-bolivias-hydrocarbon-conservation-frontier-cortes-flujos-y-fugas-practicas-de-enclavamiento-y-contratopografias-en-la-frontera-hidrocarburosconservacion-de-bolivia), interrogates the spatial practices and politics involved in remaking Bolivia's protected areas as territories of extraction, focusing on the ongoing conflict over natural gas development in the Tariquía National Reserve of Flora and Fauna.
 
-- **February 2025:** I recently gave a talk about her work at Cafe Biocultural, Tarija City, Bolivia, followed by a lively debate on extractivism and resistance with local participants. For photos and more details about the event, please visit the [Public Engagement page](/public-engagement).
+- **February 2025:** I recently gave a talk about my work at Cafe Biocultural, Tarija City, Bolivia, followed by a lively debate on extractivism and resistance with local participants. For photos and more details about the event, please visit the [Public Engagement page](/public-engagement).
 
 ## 2024
 
