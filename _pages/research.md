@@ -19,7 +19,8 @@ My approach is interdisciplinary and engages a range of critical literatures on 
 
 #### Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas
 
-In 2024, I was honored to receive a British Academy Mid-Career Fellowship, which will support my further research, the development of a book manuscript, and the production of a second documentary film. This work will focus on the political and territorial dynamics of gas extraction in Bolivia’s Tariquía Reserve of Flora and Fauna.
+
+In March 2025, I concluded fieldwork for my project Untapped Reserves: Mapping Extraction and Resistance in Bolivia’s Protected Areas, which focuses on the ongoing conflict over new gas extraction in the Tariquía Reserve of Flora and Fauna in Tarija Department. The project, which included the production of two documentary films, was supported by a British Academy Mid-Career Fellowship (2024-25) and previous funding from the Independent Research Council of Denmark (2019-2023). I am now working on the completion of a book manuscript, which is tentatively titled Untapped Reserves: Contesting Space and Nature at Bolivia’s Extraction-conservation Frontier.
 
 ## Projects
 

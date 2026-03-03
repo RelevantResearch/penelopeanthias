@@ -35,9 +35,12 @@ More information about *Limits to Decolonization* and *Neoextractivism and Terri
 ### Edited Book
 
 - Anthias, P., & López Flores, P. C. (2023). [Neoextractivism and Territorial Disputes in Latin America: Social-Ecological Conflict and Resistance on the Front Lines.](https://doi.org/10.4324/9781003267461) Routledge.
+- Blaser, M., Poirier, S., and Anthias, P, (2026). [Territories of Life: Equivocations, Entanglements, and Endurances.](https://ualbertapress.ca/9781772128475/territories-of-life/) *University of Alberta Press*.
+
 
 ### Chapters in a Book
 
+- Anthias, P. (2025). [Plurinational Juristocracy and Rights from Below at Bolivia’s Gas Frontier. In M. Goodale & O. Zenker (Eds.), Reckoning with Law in Excess: Mobilization, Confrontation, Refusal (pp. 186-211).](https://doi.org/10.1017/9781009499552.010) *Cambridge University Press*.
 - Anthias, P. (in press). [Mapping the subaltern.](https://doi.org/10.4324/9780367855765-11) In A. J. Kent, & D. Specht (Eds.), *The Routledge Handbook of Geospatial Technologies and Society.* Routledge.
 - Anthias, P. and López Flores, Pabel C. (2023). "Introduction" to *Neoextractivism and Territorial Disputes in Latin America*. London: Routledge.
 - Anthias, P. (2012). [Territorializing Resource Conflicts in “Post-Neoliberal” Bolivia: Hydrocarbon Development and Indigenous Land Titling in TCO Itika Guasu.](https://doi.org/10.1057/9781137073723_7) In H. Haarstad (Ed.), *New Political Spaces in Latin American Natural Resource Governance* (129-153).
